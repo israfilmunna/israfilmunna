@@ -1,4 +1,12 @@
-````markdown id="a9n4qx"
+# Ultimate Academic GitHub README for Israfil Munna
+
+````markdown
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:00C6FF&height=220&section=header&text=Israfil%20Munna&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Researcher%20%7C%20Bibliometric%20Analyst%20%7C%20AI%20%26%20Leadership%20Research&descAlignY=55&descAlign=50" width="100%"/>
+
+</div>
+
 <h1 align="center">Hi 👋, I'm Israfil Munna</h1>
 
 <h3 align="center">
@@ -16,6 +24,7 @@ Master’s Student • Researcher • Bibliometric Analyst • AI & Leadership R
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=israfilmunna&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
   <img src="https://img.shields.io/github/followers/israfilmunna?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/israfilmunna?affiliations=OWNER%2CCOLLABORATOR&style=social" />
 </p>
 
 ---
@@ -33,6 +42,7 @@ Master’s Student • Researcher • Bibliometric Analyst • AI & Leadership R
 
 - 🔬 Focused on building reproducible and data-driven research systems
 - 🌍 Interested in global collaboration and impactful scientific contribution
+- 📈 Exploring scientific mapping, AI transformation, and evidence-based organizational innovation
 
 ---
 
@@ -48,6 +58,7 @@ Master’s Student • Researcher • Bibliometric Analyst • AI & Leadership R
 - Digital Leadership
 - Technology Acceptance
 - AI Readiness
+- Human-AI Collaboration
 
 </td>
 
@@ -59,6 +70,7 @@ Master’s Student • Researcher • Bibliometric Analyst • AI & Leadership R
 - Psychological Safety
 - Employee Engagement
 - Sustainable Leadership
+- Organizational Innovation
 
 </td>
 </tr>
@@ -75,6 +87,7 @@ Master’s Student • Researcher • Bibliometric Analyst • AI & Leadership R
 - VOSviewer Visualization Projects
 - Biblioshiny Research Mapping
 - PRISMA-based Systematic Literature Reviews
+- Citation Network and Co-occurrence Analysis
 
 ---
 
@@ -84,6 +97,7 @@ Master’s Student • Researcher • Bibliometric Analyst • AI & Leadership R
 - AI-Based Educational Transformation
 - Hybrid AI Acceptance Models
 - Digital Learning Ecosystems
+- AI Readiness in Academic Institutions
 
 ---
 
@@ -93,6 +107,7 @@ Master’s Student • Researcher • Bibliometric Analyst • AI & Leadership R
 - Transformational Leadership & Career Development
 - Psychological Safety for Remote Employees
 - e-HRM and Employee Engagement
+- Sustainable Leadership and Organizational Development
 
 ---
 
@@ -113,6 +128,7 @@ Master’s Student • Researcher • Bibliometric Analyst • AI & Leadership R
 <img src="https://img.shields.io/badge/Bibliometrix-E97627?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Scopus-FF6C37?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Web%20of%20Science-8B0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
 </p>
 
@@ -128,6 +144,7 @@ Master’s Student • Researcher • Bibliometric Analyst • AI & Leadership R
 | 📚 Bibliometric Analysis | Citation Mapping & Scientific Visualization |
 | 🤖 AI Research | AI Adoption & Digital Transformation |
 | 👥 Organizational Behavior | Leadership & Workplace Psychology |
+| 🌱 Sustainability Research | Responsible Leadership & CSR |
 
 ---
 
@@ -177,6 +194,10 @@ Academic Publication
 <img src="https://img.shields.io/badge/ORCID-0009--0007--4544--6769-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white"/>
 </a>
 
+<a href="https://scholar.google.com/" target="_blank">
+<img src="https://img.shields.io/badge/Google%20Scholar-Research%20Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+</a>
+
 <a href="https://www.instagram.com/israfil_munna2026/?hl=en" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-@israfil__munna2026-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
@@ -197,16 +218,8 @@ Academic Publication
 - AI Ethics in Education
 - Data-Driven Organizational Innovation
 - Advanced Scientific Mapping
-
----
-
-# 🧩 Research Philosophy
-
-<p align="center">
-<i>
-“Research is not only about publishing papers — it is about building knowledge systems, analytical frameworks, and reproducible scientific contributions.”
-</i>
-</p>
+- AI-Assisted Organizational Decision Making
+- Sustainable Higher Education Systems
 
 ---
 
@@ -223,6 +236,8 @@ Academic Publication
 ✔ Organizational Behavior
 ✔ Sustainability Research
 ✔ Higher Education Research
+✔ Digital Transformation
+✔ AI Adoption Research
 ```
 
 ---
@@ -234,10 +249,57 @@ Academic Publication
 - Collaborate internationally
 - Develop advanced expertise in bibliometric analysis
 - Contribute to evidence-based policy and organizational development
+- Create open research assets for future researchers
+
+---
+
+# 📌 Planned Research Repositories
+
+| Repository | Description |
+|---|---|
+| 📚 bibliometric-analysis-toolkit | VOSviewer, Bibliometrix, Scopus workflows |
+| 🤖 chatgpt-in-higher-education | AI adoption research and frameworks |
+| 📊 research-methodology-notes | Quantitative, qualitative, and mixed methods notes |
+| 👥 leadership-research-frameworks | Leadership models and organizational behavior studies |
+| 📈 scopus-search-queries | Advanced academic database search strategies |
+
+---
+
+# 🧩 Research Philosophy
+
+<p align="center">
+<i>
+“Research is not only about publishing papers — it is about building knowledge systems, analytical frameworks, and reproducible scientific contributions.”
+</i>
+</p>
+
+---
+
+# ⚡ Profile Strengthening Checklist
+
+```text
+✔ Professional Academic README
+✔ ORCID Integration
+✔ LinkedIn Integration
+✔ Research Focus Structure
+✔ GitHub Analytics
+✔ Research Workflow
+⬜ Google Scholar Profile
+⬜ ResearchGate Profile
+⬜ Pinned Research Repositories
+⬜ Public Datasets
+⬜ VOSviewer Visualization Gallery
+```
 
 ---
 
 <p align="center">
 ⭐ Building impactful interdisciplinary research through evidence-based analysis and scientific innovation.
 </p>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:00C6FF&height=120&section=footer" width="100%"/>
+
+</div>
 ````
