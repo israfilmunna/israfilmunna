@@ -1,24 +1,161 @@
-# 💫 About Me:
-```text<br>🔭 I’m currently working on:<br>Bibliometric Analysis, AI Adoption Research, and Leadership Studies<br><br>👯 I’m looking to collaborate on:<br>Interdisciplinary Research Projects related to AI, Organizational Behavior, and Higher Education<br><br>🤝 I’m looking for help with:<br>Advanced Bibliometric Visualization, Research Publication, and International Collaboration<br><br>🌱 I’m currently learning:<br>R for Bibliometric Analysis, SmartPLS, NVivo, and AI-driven Research Methods<br><br>💬 Ask me about:<br>Bibliometric Analysis, Research Methodology, AI Adoption, Leadership Research, and Systematic Literature Reviews<br><br>⚡ Fun fact:<br>I enjoy transforming research ideas into structured analytical frameworks and scientific visualizations.<br>```<br>
+Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> My name is Israfil Munna
+======================================================================================================================================
 
+<h4>Master’s Student | Researcher | Bibliometric Analyst | AI & Leadership Research Enthusiast</h4>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/israfilmunna2026) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/israfil_munna2026/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/israfilmunna/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:israfilmunna123@gmail.com) 
+- 🔭 I’m currently working on Bibliometric Analysis, AI Adoption Research, and Leadership Studies
+- 🌱 I’m currently learning Advanced Bibliometric Visualization, SmartPLS, NVivo, and AI-driven Research Methods
+- 👯 I’m looking to collaborate on Interdisciplinary Research Projects related to AI, Organizational Behavior, and Higher Education
+- 🤝 I’m looking for help with International Research Collaboration and Scientific Publication
+- 💬 Ask me about Bibliometric Analysis, Research Methodology, AI Adoption, Leadership Research, and Systematic Literature Reviews
+- ⚡ Fun fact: I enjoy transforming research ideas into structured analytical frameworks and scientific visualizations
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=israfilmunna&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=israfilmunna&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=israfilmunna&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://github.com/israfilmunna" target="_blank" rel="noreferrer">
+<img
+src="https://img.shields.io/github/followers/israfilmunna?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+</a>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=israfilmunna&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=israfilmunna&label=Profile%20views&color=0e75b6&style=flat" alt="israfilmunna" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=israfilmunna&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="left">Research Areas:</h3>
+
+<p align="left">
+
+<a href="#" target="_blank" rel="noreferrer">
+<img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" alt="research" width="40" height="40"/>
+</a>
+
+<a href="#" target="_blank" rel="noreferrer">
+<img src="https://cdn-icons-png.flaticon.com/512/2920/2920277.png" alt="ai" width="40" height="40"/>
+</a>
+
+<a href="#" target="_blank" rel="noreferrer">
+<img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="leadership" width="40" height="40"/>
+</a>
+
+<a href="#" target="_blank" rel="noreferrer">
+<img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" alt="analysis" width="40" height="40"/>
+</a>
+
+<a href="#" target="_blank" rel="noreferrer">
+<img src="https://cdn-icons-png.flaticon.com/512/4149/4149680.png" alt="education" width="40" height="40"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="left">Research Tools & Technologies:</h3>
+
+<p align="left">
+
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="python" width="40" height="40"/>
+</a>
+
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+<img src="https://www.r-project.org/logo/Rlogo.png" alt="r" width="40" height="40"/>
+</a>
+
+<a href="#" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/VOSviewer_logo.png" alt="vosviewer" width="40" height="40"/>
+</a>
+
+<a href="#" target="_blank" rel="noreferrer">
+<img src="https://seeklogo.com/images/S/spss-logo-677A8EBF9F-seeklogo.com.png" alt="spss" width="40" height="40"/>
+</a>
+
+<a href="#" target="_blank" rel="noreferrer">
+<img src="https://seeklogo.com/images/M/microsoft-excel-logo-974BFF9CB9-seeklogo.com.png" alt="excel" width="40" height="40"/>
+</a>
+
+<a href="#" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/NVivo_Logo.png" alt="nvivo" width="40" height="40"/>
+</a>
+
+</p>
+
+---
+
+# 📚 Current Research Focus
+
+- Responsible Leadership
+- Corporate Social Responsibility (CSR)
+- AI Adoption in Higher Education
+- Digital Leadership
+- Organizational Behavior
+- Psychological Safety
+- Toxic Leadership
+- Sustainable Organizational Development
+- Bibliometric Analysis
+- Systematic Literature Review
+
+---
+
+# 📈 GitHub Stats
+
+<a href="http://www.github.com/israfilmunna">
+<img src="https://github-readme-stats.vercel.app/api?username=israfilmunna&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="israfilmunna's GitHub stats" />
+</a>
+
+<a href="http://www.github.com/israfilmunna">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=israfilmunna&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</a>
+
+<a href="http://www.github.com/israfilmunna">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=israfilmunna&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=Research%20Activity%20Graph" alt="GitHub Activity Graph" />
+</a>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/israfilmunna/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
+</a>
+
+<a href="https://orcid.org/0009-0007-4544-6769" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/orcid.svg" alt="orcid" height="30" width="40" />
+</a>
+
+<a href="https://www.instagram.com/israfil_munna2026/?hl=en" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="instagram" height="30" width="40" />
+</a>
+
+<a href="https://www.facebook.com/israfilmunna2026" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="facebook" height="30" width="40" />
+</a>
+
+</p>
+
+---
+
+# 🏆 Academic Goals
+
+- Publish impactful interdisciplinary research
+- Build reproducible research repositories
+- Develop expertise in bibliometric analysis
+- Contribute to evidence-based organizational development
+- Collaborate internationally on AI and leadership research
+
+---
+
+# 🧩 Research Philosophy
+
+> Research is not only about publishing papers — it is about building reproducible knowledge systems and impactful scientific contributions.
+
+---
+
+# 📌 Planned Research Repositories
+
+- bibliometric-analysis-toolkit
+- chatgpt-in-higher-education
+- leadership-research-frameworks
+- scopus-search-queries
+- research-methodology-notes
