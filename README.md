@@ -1,161 +1,89 @@
-Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> My name is Israfil Munna
-======================================================================================================================================
+<div align="center">
 
-<h4>Master’s Student | Researcher | Bibliometric Analyst | AI & Leadership Research Enthusiast</h4>
+# Israfil Munna
 
-- 🔭 I’m currently working on Bibliometric Analysis, AI Adoption Research, and Leadership Studies
-- 🌱 I’m currently learning Advanced Bibliometric Visualization, SmartPLS, NVivo, and AI-driven Research Methods
-- 👯 I’m looking to collaborate on Interdisciplinary Research Projects related to AI, Organizational Behavior, and Higher Education
-- 🤝 I’m looking for help with International Research Collaboration and Scientific Publication
-- 💬 Ask me about Bibliometric Analysis, Research Methodology, AI Adoption, Leadership Research, and Systematic Literature Reviews
-- ⚡ Fun fact: I enjoy transforming research ideas into structured analytical frameworks and scientific visualizations
+### Management & Leadership Researcher | Master of Management Student | PhD Scholarship Applicant
 
-<a href="https://github.com/israfilmunna" target="_blank" rel="noreferrer">
-<img
-src="https://img.shields.io/github/followers/israfilmunna?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-</a>
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--4544--6769-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0007-4544-6769)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Israfil%20Munna-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israfilmunna/)
+[![Email](https://img.shields.io/badge/Email-israfilmunna123%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:israfilmunna123@gmail.com)
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=israfilmunna&label=Profile%20views&color=0e75b6&style=flat" alt="israfilmunna" />
-</p>
+Yogyakarta, Indonesia
 
----
+</div>
 
-<h3 align="left">Research Areas:</h3>
+## Research profile
 
-<p align="left">
+I am a Master of Management student in Human Resource Management at **Universitas Muhammadiyah Yogyakarta, Indonesia**, supported by a fully funded scholarship. My research examines how leadership, digital transformation, artificial intelligence, and human resource practices influence organizational and employee outcomes in emerging economies, particularly Bangladesh and Indonesia.
 
-<a href="#" target="_blank" rel="noreferrer">
-<img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" alt="research" width="40" height="40"/>
-</a>
+My work combines organizational behavior and leadership theory with quantitative, qualitative, bibliometric, and machine-learning methods. I am preparing for a fully funded PhD focused on management, leadership, and organizational research in South and Southeast Asia.
 
-<a href="#" target="_blank" rel="noreferrer">
-<img src="https://cdn-icons-png.flaticon.com/512/2920/2920277.png" alt="ai" width="40" height="40"/>
-</a>
+## Research agenda
 
-<a href="#" target="_blank" rel="noreferrer">
-<img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="leadership" width="40" height="40"/>
-</a>
+| Area | Current focus |
+|---|---|
+| Digital leadership and AI | AI adoption, employee digital readiness, algorithmic transparency, trust, and fairness |
+| Leadership and organizational behavior | Transformational, responsible, toxic, crisis, and sustainable leadership |
+| Human resource management | Employee engagement, workplace flexibility, organizational commitment, and performance evaluation |
+| Higher education | Lecturer career development, knowledge sharing, academic performance, and university–community engagement |
+| Emerging-economy management | Organizational practices in Bangladesh and Indonesia |
+| Values and sustainability | Islamic spirituality, responsible management, CSR, SDG 8, and sustainable HRM |
 
-<a href="#" target="_blank" rel="noreferrer">
-<img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" alt="analysis" width="40" height="40"/>
-</a>
+## Selected publications
 
-<a href="#" target="_blank" rel="noreferrer">
-<img src="https://cdn-icons-png.flaticon.com/512/4149/4149680.png" alt="education" width="40" height="40"/>
-</a>
+1. Munna, I., & Udin, U. (2026). **Digital leadership and AI adoption intention and usage in SMEs: The mediating role of employee digital readiness in an urban Bangladeshi context.** *International Journal of Organizational Leadership, 15*(2), 151–170. [https://doi.org/10.33844/ijol.2026.60548](https://doi.org/10.33844/ijol.2026.60548)
 
-</p>
+2. Munna, I. (2025). **Understanding ChatGPT adoption among university students in Yogyakarta, Indonesia: An extended value-based adoption model using hybrid structural equation modeling and machine learning analysis.** *Education Science and Management, 3*(4), 219–230. [https://doi.org/10.56578/esm030402](https://doi.org/10.56578/esm030402)
 
----
+[View the complete publication record →](PUBLICATIONS.md)
 
-<h3 align="left">Research Tools & Technologies:</h3>
+## Selected current projects
 
-<p align="left">
+- Algorithmic transparency, trust, and perceived fairness in AI-based performance evaluation systems
+- Transformational leadership and lecturer career development in Indonesian higher education
+- Responsible leadership and corporate social responsibility: a bibliometric analysis
+- Workplace flexibility and organizational commitment among Generation Z employees
+- Islamic spirituality and organizational leadership in Bangladeshi firms
+- Toxic leadership and employee sensemaking in Bangladesh’s banking sector
 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="python" width="40" height="40"/>
-</a>
+[Read my research agenda and methodological profile →](RESEARCH.md)
 
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-<img src="https://www.r-project.org/logo/Rlogo.png" alt="r" width="40" height="40"/>
-</a>
+## Methods and research tools
 
-<a href="#" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/VOSviewer_logo.png" alt="vosviewer" width="40" height="40"/>
-</a>
+| Research approach | Competencies |
+|---|---|
+| Quantitative | PLS-SEM, mediation and moderation analysis, SmartPLS, SPSS, R |
+| Computational | Hybrid SEM–machine learning, ANN, DNN, SHAP |
+| Evidence synthesis | Bibliometric analysis, VOSviewer, systematic literature reviews |
+| Qualitative | Semi-structured interviews, phenomenology, IPA, thematic analysis, sensemaking analysis |
+| Research integrity | APA 7, DOI verification, reference auditing, transparent reporting |
 
-<a href="#" target="_blank" rel="noreferrer">
-<img src="https://seeklogo.com/images/S/spss-logo-677A8EBF9F-seeklogo.com.png" alt="spss" width="40" height="40"/>
-</a>
+## Academic leadership and service
 
-<a href="#" target="_blank" rel="noreferrer">
-<img src="https://seeklogo.com/images/M/microsoft-excel-logo-974BFF9CB9-seeklogo.com.png" alt="excel" width="40" height="40"/>
-</a>
+- **Director of Research and Professional Development**, International Students Association, Universitas Muhammadiyah Yogyakarta
+- **Invited peer reviewer**, *International Journal of Education and Practice*
+- **Peer reviewer**, *Asian Journal of Interdisciplinary Research*
+- **Best Paper Award — Human Resource Track**, International Student Colloquium Collaboration, 2025
+- Coordinator and contributor to international research workshops, research bootcamps, and student capacity-building programs
 
-<a href="#" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/NVivo_Logo.png" alt="nvivo" width="40" height="40"/>
-</a>
+## What I am building on GitHub
 
-</p>
+This profile is being developed as an open research portfolio. Future repositories will prioritize:
 
----
+- reproducible analysis workflows for PLS-SEM and hybrid SEM–ML studies;
+- bibliometric search, cleaning, and visualization protocols;
+- research instruments, codebooks, and reporting templates where ethics and copyright permit;
+- structured notes on leadership, HRM, AI adoption, and research methodology;
+- transparent documentation that supports replication and international collaboration.
 
-# 📚 Current Research Focus
+## Collaboration
 
-- Responsible Leadership
-- Corporate Social Responsibility (CSR)
-- AI Adoption in Higher Education
-- Digital Leadership
-- Organizational Behavior
-- Psychological Safety
-- Toxic Leadership
-- Sustainable Organizational Development
-- Bibliometric Analysis
-- Systematic Literature Review
+I welcome research collaboration involving leadership, HRM, organizational behavior, AI adoption, higher education, sustainability, and emerging economies. I am particularly interested in cross-country projects, reproducible social-science workflows, and fully funded PhD opportunities.
+
+**Contact:** [israfilmunna123@gmail.com](mailto:israfilmunna123@gmail.com)  
+**ORCID:** [0009-0007-4544-6769](https://orcid.org/0009-0007-4544-6769)  
+**LinkedIn:** [linkedin.com/in/israfilmunna](https://www.linkedin.com/in/israfilmunna/)
 
 ---
 
-# 📈 GitHub Stats
-
-<a href="http://www.github.com/israfilmunna">
-<img src="https://github-readme-stats.vercel.app/api?username=israfilmunna&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="israfilmunna's GitHub stats" />
-</a>
-
-<a href="http://www.github.com/israfilmunna">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=israfilmunna&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
-
-<a href="http://www.github.com/israfilmunna">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=israfilmunna&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=Research%20Activity%20Graph" alt="GitHub Activity Graph" />
-</a>
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/israfilmunna/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
-</a>
-
-<a href="https://orcid.org/0009-0007-4544-6769" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/orcid.svg" alt="orcid" height="30" width="40" />
-</a>
-
-<a href="https://www.instagram.com/israfil_munna2026/?hl=en" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="instagram" height="30" width="40" />
-</a>
-
-<a href="https://www.facebook.com/israfilmunna2026" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="facebook" height="30" width="40" />
-</a>
-
-</p>
-
----
-
-# 🏆 Academic Goals
-
-- Publish impactful interdisciplinary research
-- Build reproducible research repositories
-- Develop expertise in bibliometric analysis
-- Contribute to evidence-based organizational development
-- Collaborate internationally on AI and leadership research
-
----
-
-# 🧩 Research Philosophy
-
-> Research is not only about publishing papers — it is about building reproducible knowledge systems and impactful scientific contributions.
-
----
-
-# 📌 Planned Research Repositories
-
-- bibliometric-analysis-toolkit
-- chatgpt-in-higher-education
-- leadership-research-frameworks
-- scopus-search-queries
-- research-methodology-notes
+> Rigorous management research should connect theory, transparent methods, and organizational problems that matter.
