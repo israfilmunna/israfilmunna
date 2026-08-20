@@ -1,89 +1,224 @@
-<div align="center">
-
 # Israfil Munna
 
-### Management & Leadership Researcher | Master of Management Student | PhD Scholarship Applicant
+<p align="center">
+  <img src="https://img.shields.io/badge/Management-Researcher-blue?style=for-the-badge" alt="Management Researcher">
+  <img src="https://img.shields.io/badge/AI%20%26%20HRM-Research-orange?style=for-the-badge" alt="AI and HRM">
+  <img src="https://img.shields.io/badge/Digital%20Leadership-Research-green?style=for-the-badge" alt="Digital Leadership">
+  <img src="https://img.shields.io/badge/PhD-Applicant-purple?style=for-the-badge" alt="PhD Applicant">
+</p>
 
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--4544--6769-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0007-4544-6769)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Israfil%20Munna-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israfilmunna/)
-[![Email](https://img.shields.io/badge/Email-israfilmunna123%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:israfilmunna123@gmail.com)
+<p align="center">
+  <b>Management & Leadership Researcher | AI Adoption | Digital Leadership | HRM</b>
+</p>
 
-Yogyakarta, Indonesia
+<p align="center">
+  🇧🇩 Bangladesh &nbsp; | &nbsp; 🇮🇩 Indonesia &nbsp; | &nbsp; 🌏 Emerging Markets
+</p>
 
-</div>
-
-## Research profile
-
-I am a Master of Management student in Human Resource Management at **Universitas Muhammadiyah Yogyakarta, Indonesia**, supported by a fully funded scholarship. My research examines how leadership, digital transformation, artificial intelligence, and human resource practices influence organizational and employee outcomes in emerging economies, particularly Bangladesh and Indonesia.
-
-My work combines organizational behavior and leadership theory with quantitative, qualitative, bibliometric, and machine-learning methods. I am preparing for a fully funded PhD focused on management, leadership, and organizational research in South and Southeast Asia.
-
-## Research agenda
-
-| Area | Current focus |
-|---|---|
-| Digital leadership and AI | AI adoption, employee digital readiness, algorithmic transparency, trust, and fairness |
-| Leadership and organizational behavior | Transformational, responsible, toxic, crisis, and sustainable leadership |
-| Human resource management | Employee engagement, workplace flexibility, organizational commitment, and performance evaluation |
-| Higher education | Lecturer career development, knowledge sharing, academic performance, and university–community engagement |
-| Emerging-economy management | Organizational practices in Bangladesh and Indonesia |
-| Values and sustainability | Islamic spirituality, responsible management, CSR, SDG 8, and sustainable HRM |
-
-## Selected publications
-
-1. Munna, I., & Udin, U. (2026). **Digital leadership and AI adoption intention and usage in SMEs: The mediating role of employee digital readiness in an urban Bangladeshi context.** *International Journal of Organizational Leadership, 15*(2), 151–170. [https://doi.org/10.33844/ijol.2026.60548](https://doi.org/10.33844/ijol.2026.60548)
-
-2. Munna, I. (2025). **Understanding ChatGPT adoption among university students in Yogyakarta, Indonesia: An extended value-based adoption model using hybrid structural equation modeling and machine learning analysis.** *Education Science and Management, 3*(4), 219–230. [https://doi.org/10.56578/esm030402](https://doi.org/10.56578/esm030402)
-
-[View the complete publication record →](PUBLICATIONS.md)
-
-## Selected current projects
-
-- Algorithmic transparency, trust, and perceived fairness in AI-based performance evaluation systems
-- Transformational leadership and lecturer career development in Indonesian higher education
-- Responsible leadership and corporate social responsibility: a bibliometric analysis
-- Workplace flexibility and organizational commitment among Generation Z employees
-- Islamic spirituality and organizational leadership in Bangladeshi firms
-- Toxic leadership and employee sensemaking in Bangladesh’s banking sector
-
-[Read my research agenda and methodological profile →](RESEARCH.md)
-
-## Methods and research tools
-
-| Research approach | Competencies |
-|---|---|
-| Quantitative | PLS-SEM, mediation and moderation analysis, SmartPLS, SPSS, R |
-| Computational | Hybrid SEM–machine learning, ANN, DNN, SHAP |
-| Evidence synthesis | Bibliometric analysis, VOSviewer, systematic literature reviews |
-| Qualitative | Semi-structured interviews, phenomenology, IPA, thematic analysis, sensemaking analysis |
-| Research integrity | APA 7, DOI verification, reference auditing, transparent reporting |
-
-## Academic leadership and service
-
-- **Director of Research and Professional Development**, International Students Association, Universitas Muhammadiyah Yogyakarta
-- **Invited peer reviewer**, *International Journal of Education and Practice*
-- **Peer reviewer**, *Asian Journal of Interdisciplinary Research*
-- **Best Paper Award — Human Resource Track**, International Student Colloquium Collaboration, 2025
-- Coordinator and contributor to international research workshops, research bootcamps, and student capacity-building programs
-
-## What I am building on GitHub
-
-This profile is being developed as an open research portfolio. Future repositories will prioritize:
-
-- reproducible analysis workflows for PLS-SEM and hybrid SEM–ML studies;
-- bibliometric search, cleaning, and visualization protocols;
-- research instruments, codebooks, and reporting templates where ethics and copyright permit;
-- structured notes on leadership, HRM, AI adoption, and research methodology;
-- transparent documentation that supports replication and international collaboration.
-
-## Collaboration
-
-I welcome research collaboration involving leadership, HRM, organizational behavior, AI adoption, higher education, sustainability, and emerging economies. I am particularly interested in cross-country projects, reproducible social-science workflows, and fully funded PhD opportunities.
-
-**Contact:** [israfilmunna123@gmail.com](mailto:israfilmunna123@gmail.com)  
-**ORCID:** [0009-0007-4544-6769](https://orcid.org/0009-0007-4544-6769)  
-**LinkedIn:** [linkedin.com/in/israfilmunna](https://www.linkedin.com/in/israfilmunna/)
+<p align="center">
+  <a href="https://scholar.google.com/citations?user=hfNSEOEAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar">
+  </a>
+  <a href="https://www.scopus.com/authid/detail.uri?authorId=60781126500">
+    <img src="https://img.shields.io/badge/Scopus-Author%20ID%2060781126500-E9711C?style=for-the-badge" alt="Scopus">
+  </a>
+  <a href="https://orcid.org/0009-0007-4544-6769">
+    <img src="https://img.shields.io/badge/ORCID-0009--0007--4544--6769-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
+  </a>
+  <a href="https://www.linkedin.com/in/israfilmunna/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/israfilmunna">
+    <img src="https://img.shields.io/badge/GitHub-israfilmunna-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
 ---
 
-> Rigorous management research should connect theory, transparent methods, and organizational problems that matter.
+## 👋 About Me
+
+I am an early-career **management researcher** with a research focus at the intersection of:
+
+**Leadership × Artificial Intelligence × Human Resource Management × Digital Transformation × Organizational Behavior**
+
+I completed the academic requirements for my **Master of Management at Universitas Muhammadiyah Yogyakarta (UMY), Indonesia**, with a **CGPA of 3.91/4.00**, under a fully funded scholarship. The formal degree conferral is pending.
+
+My research interests focus on understanding how leadership, technology adoption, human resource practices, and organizational capabilities shape employee and organizational outcomes, particularly in **emerging-market and higher-education contexts**.
+
+I am currently preparing for **fully funded PhD opportunities** in Management, Human Resource Management, Organizational Behavior, Leadership, Digital Transformation, AI and Organizations, and related fields.
+
+---
+
+# 🔬 Research Interests
+
+### Primary Areas
+
+- 🤖 Artificial Intelligence Adoption
+- 💻 Digital Leadership
+- 👥 Human Resource Management
+- 📊 Electronic Human Resource Management (E-HRM)
+- 🧠 Organizational Behavior
+- 🌱 Sustainable Leadership
+- ♻️ Responsible Leadership
+- 🤝 Human–AI Collaboration
+- 🎓 Higher Education Management
+- 📈 Organizational Effectiveness
+- 🌏 Emerging-Market Management
+
+### Research Contexts
+
+- South Asia
+- Southeast Asia
+- Bangladesh
+- Indonesia
+- Higher Education Institutions
+- SMEs
+- Digital Organizations
+- Emerging Economies
+
+---
+
+# 📚 Publications
+
+I have published **four peer-reviewed journal articles** covering electronic human resource management, employee engagement, digital leadership, AI adoption, higher education, and ChatGPT adoption.
+
+---
+
+## 1. Electronic Human Resource Management & Employee Engagement
+
+**Munna, I., Udin, U., Ogueri, D. I., & Sukumaran, S. (2026).**
+
+*Electronic human resource management and employee engagement for sustainable development goals: Examining the mediating role of perceived organizational support in private universities of Bangladesh.*
+
+**Human Resources Management and Services, 8(3), 5872.**
+
+🔗 **DOI:**  
+https://doi.org/10.18282/hrms5872
+
+---
+
+## 2. Digital Leadership & AI Adoption
+
+**Munna, I., & Udin, U. (2026).**
+
+*Digital leadership and AI adoption intention and usage in SMEs: The mediating role of employee digital readiness in an urban Bangladeshi context.*
+
+**International Journal of Organizational Leadership, 15(2), 151–170.**
+
+🔗 **DOI:**  
+https://doi.org/10.33844/ijol.2026.60548
+
+---
+
+## 3. Digital Leadership & Academic Performance
+
+**Munna, I. (2026).**
+
+*Digital Leadership and Academic Performance: The Mediating Role of Knowledge Sharing in Higher Education Institutions.*
+
+**Education Science and Management, 4(1), 21–37.**
+
+🔗 **DOI:**  
+https://doi.org/10.56578/esm040102
+
+---
+
+## 4. ChatGPT Adoption & Machine Learning
+
+**Munna, I. (2025).**
+
+*Understanding ChatGPT Adoption among University Students in Yogyakarta, Indonesia: An Extended Value-Based Adoption Model Using Hybrid Structural Equation Modeling and Machine Learning Analysis.*
+
+**Education Science and Management, 3(4), 219–230.**
+
+🔗 **DOI:**  
+https://doi.org/10.56578/esm030402
+
+---
+
+# 📊 Publication Overview
+
+| Research Area | Articles |
+|---|---:|
+| Digital Leadership | 2 |
+| Artificial Intelligence / ChatGPT Adoption | 1 |
+| Electronic Human Resource Management | 1 |
+| Employee Engagement | 1 |
+| Higher Education Management | 1 |
+| Machine Learning / Hybrid SEM | 1 |
+| **Total Peer-Reviewed Articles** | **4** |
+
+---
+
+# 🧪 Research Methodology
+
+My research experience covers both **quantitative and qualitative research methodologies**.
+
+### Quantitative Research
+
+- PLS-SEM
+- Structural Equation Modeling
+- Mediation Analysis
+- Moderation Analysis
+- Predictive Relevance
+- Measurement Model Assessment
+- Structural Model Assessment
+- Reflective Measurement Models
+- Formative Measurement Models
+- Common Method Bias Assessment
+- Bootstrapping
+
+### Statistical & Research Software
+
+- SmartPLS 4
+- SPSS
+- R
+- Microsoft Excel
+
+### Machine Learning for Social Science
+
+- Artificial Neural Networks (ANN)
+- Hybrid SEM–Machine Learning
+- Machine Learning-Based Prediction
+- SHAP-Based Interpretation
+- Explainable Machine Learning
+
+### Qualitative Research
+
+- Interpretative Phenomenological Analysis (IPA)
+- Thematic Analysis
+- Semi-structured Interviews
+- Sensemaking Analysis
+- Qualitative Research Design
+
+### Bibliometric & Literature Research
+
+- Systematic Literature Review
+- Bibliometric Analysis
+- VOSviewer
+- Co-citation Analysis
+- Keyword Co-occurrence Analysis
+- Citation Analysis
+- Scopus-Based Literature Analysis
+
+---
+
+# 🔎 Research Framework
+
+My broader research agenda explores the relationship between leadership, digital transformation, AI adoption, and organizational outcomes.
+
+```text
+                    DIGITAL LEADERSHIP
+                           │
+                           ▼
+                 DIGITAL TRANSFORMATION
+                           │
+                           ▼
+                      AI ADOPTION
+                           │
+                           ▼
+                HUMAN–AI COLLABORATION
+                           │
+                           ▼
+              EMPLOYEE & ORGANIZATIONAL
+                       OUTCOMES
