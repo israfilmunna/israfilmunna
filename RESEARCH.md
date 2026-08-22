@@ -8,26 +8,30 @@
 </p>
 
 <p align="center">
-  <b>Management & Leadership Researcher | AI Adoption | Digital Leadership | HRM</b>
+  <b>Management & Leadership Researcher | Digital Leadership | AI Adoption | HRM | Human–AI Collaboration</b>
 </p>
 
 <p align="center">
-  🇧🇩 Bangladesh &nbsp; | &nbsp; 🇮🇩 Indonesia &nbsp; | &nbsp; 🌏 Emerging Markets
+  🇧🇩 Bangladesh &nbsp; | &nbsp; 🇮🇩 Indonesia &nbsp; | &nbsp; 🌏 South & Southeast Asia
 </p>
 
 <p align="center">
   <a href="https://scholar.google.com/citations?user=hfNSEOEAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=for-the-badge&logo=google-scholar">
   </a>
+
   <a href="https://www.scopus.com/authid/detail.uri?authorId=60781126500">
-    <img src="https://img.shields.io/badge/Scopus-Author%20Profile-orange?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Scopus-Author%20ID%2060781126500-orange?style=for-the-badge">
   </a>
+
   <a href="https://orcid.org/0009-0007-4544-6769">
     <img src="https://img.shields.io/badge/ORCID-0009--0007--4544--6769-green?style=for-the-badge&logo=orcid">
   </a>
+
   <a href="https://www.linkedin.com/in/israfilmunna/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
   </a>
+
   <a href="https://github.com/israfilmunna">
     <img src="https://img.shields.io/badge/GitHub-israfilmunna-black?style=for-the-badge&logo=github">
   </a>
@@ -37,25 +41,17 @@
 
 ## 👋 About Me
 
-I am a management researcher with research interests at the intersection of **leadership, human resource management, artificial intelligence, digital transformation, organizational behavior, and sustainable management**.
+I am an early-career **management and leadership researcher** with a research agenda at the intersection of:
 
-I completed the academic requirements for my **Master of Management at Universitas Muhammadiyah Yogyakarta (UMY), Indonesia**, with a **CGPA of 3.91/4.00**, under a fully funded scholarship.
+**Digital Leadership × Artificial Intelligence × Human Resource Management × Human–AI Collaboration × Organizational Behavior**
 
-My research focuses particularly on:
+I have completed the academic requirements for my **Master of Management at Universitas Muhammadiyah Yogyakarta (UMY), Indonesia**, with a **CGPA of 3.91/4.00**, under a fully funded scholarship. The academic requirements were completed in **July 2026**, with formal degree conferral pending.
 
-* Artificial Intelligence Adoption
-* Digital Leadership
-* AI-enabled Human Resource Management
-* Electronic Human Resource Management (E-HRM)
-* Employee Engagement
-* Organizational Behavior
-* Sustainable & Responsible Leadership
-* Human–AI Collaboration
-* Higher Education Management
-* Organizational Effectiveness
-* Emerging-Market Management
+My research examines how leadership, digital transformation, AI adoption, human resource practices, and organizational capabilities shape employee and organizational outcomes, particularly in **South and Southeast Asian emerging-market and higher-education contexts**.
 
-I am currently preparing for **fully funded PhD opportunities** in Management, Human Resource Management, Organizational Behavior, Leadership, Digital Transformation, and related fields.
+My current academic portfolio includes **five peer-reviewed journal articles**, **eight active manuscripts** across copyediting, layout, editorial decision, and peer-review stages, conference research, invited peer-review service, and systematic/bibliometric literature research.
+
+I am preparing for **fully funded PhD opportunities** in Management, Human Resource Management, Organizational Behavior, Leadership, Digital Transformation, AI and Organizations, and related fields.
 
 ---
 
@@ -63,29 +59,57 @@ I am currently preparing for **fully funded PhD opportunities** in Management, H
 
 ### Primary Research Areas
 
-* 🤖 Artificial Intelligence Adoption
-* 💻 Digital Leadership
-* 👥 Human Resource Management
-* 📊 Electronic Human Resource Management
-* 🧠 Organizational Behavior
-* 🌱 Sustainable Leadership
-* 🤝 Human–AI Collaboration
-* 🎓 Higher Education Management
+- 🤖 Artificial Intelligence Adoption & Digital Transformation
+- 💻 Digital Leadership
+- 🤝 Human–AI Collaboration
+- 👥 Human Resource Management
+- 📊 Electronic Human Resource Management (E-HRM)
+- 🧠 Organizational Behavior
+- 📈 Employee Engagement & Organizational Outcomes
+
+### Secondary Research Areas
+
+- 🌱 Sustainable & Responsible Leadership
+- ♻️ Sustainable Human Resource Management
+- 🎓 Higher Education Management
+- 🕌 Islamic Spiritual Leadership
+- 🌏 Emerging-Market Management
+- 👨‍💼 Organizational Effectiveness
 
 ### Contexts of Interest
 
-* Emerging Economies
-* South Asia
-* Southeast Asia
-* Higher Education Institutions
-* SMEs
-* Digital Organizations
+- Bangladesh
+- Indonesia
+- South Asia
+- Southeast Asia
+- Higher Education Institutions
+- SMEs
+- Digital Organizations
+- Emerging Economies
 
 ---
 
-# 📚 Selected Publications
+# 📚 Publications
 
-### 1. Electronic Human Resource Management & Employee Engagement
+I have published **five peer-reviewed journal articles** covering digital leadership, human–AI collaboration, artificial intelligence adoption, electronic human resource management, employee engagement, higher education, and ChatGPT adoption.
+
+---
+
+## 1. Digital Leadership, Human–AI Collaboration & Sustainable Performance
+
+**Md Saad, M. S., Munna, I., & Udin, U. (2026).**
+
+*Digital leadership and human–AI collaboration for sustainable organizational performance: A systematic literature review and future research agenda.*
+
+**International Journal of Organizational Leadership, 15(Special Issue-1), 39–63.**
+
+[DOI: 10.33844/ijol.2026.60554](https://doi.org/10.33844/ijol.2026.60554)
+
+🏷️ **Scopus Indexed Journal**
+
+---
+
+## 2. Electronic Human Resource Management & Employee Engagement
 
 **Munna, I., Udin, U., Ogueri, D. I., & Sukumaran, S. (2026).**
 
@@ -95,9 +119,11 @@ I am currently preparing for **fully funded PhD opportunities** in Management, H
 
 [DOI: 10.18282/hrms5872](https://doi.org/10.18282/hrms5872)
 
+🏷️ **Scopus Indexed Journal**
+
 ---
 
-### 2. Digital Leadership & AI Adoption
+## 3. Digital Leadership & AI Adoption
 
 **Munna, I., & Udin, U. (2026).**
 
@@ -107,9 +133,11 @@ I am currently preparing for **fully funded PhD opportunities** in Management, H
 
 [DOI: 10.33844/ijol.2026.60548](https://doi.org/10.33844/ijol.2026.60548)
 
+🏷️ **Scopus Indexed Journal**
+
 ---
 
-### 3. Digital Leadership & Academic Performance
+## 4. Digital Leadership & Academic Performance
 
 **Munna, I. (2026).**
 
@@ -121,7 +149,7 @@ I am currently preparing for **fully funded PhD opportunities** in Management, H
 
 ---
 
-### 4. ChatGPT Adoption & Machine Learning
+## 5. ChatGPT Adoption & Hybrid SEM–Machine Learning
 
 **Munna, I. (2025).**
 
@@ -133,47 +161,118 @@ I am currently preparing for **fully funded PhD opportunities** in Management, H
 
 ---
 
+# 📊 Publication Overview
+
+| Research Area | Articles |
+|---|---:|
+| Digital Leadership | 3 |
+| Artificial Intelligence / ChatGPT Adoption | 2 |
+| Human–AI Collaboration | 1 |
+| Electronic Human Resource Management | 1 |
+| Employee Engagement | 1 |
+| Higher Education Management | 2 |
+| Systematic Literature Review | 1 |
+| Hybrid SEM / Machine Learning | 1 |
+| **Total Peer-Reviewed Articles** | **5** |
+
+---
+
+# 📝 Active Manuscripts
+
+**Eight manuscripts are currently active across copyediting, layout, editorial decision, and peer-review stages.**
+
+- **Machine Learning-Based Teaching Quality Assessment: A Case Study Using Student Survey Data** — *International Journal of Education and Practice* — Copyediting
+- **Leadership Perception in Remote Work Environments and Implications for Decent Work: An Inductive Qualitative Study in Indonesia** — *JEMSE* — Pending layout
+- **University-Community Engagement and Local Development: Evidence from Higher Education Institutions in Indonesia** — *CCDJ* — Pending editor decision
+- **The Practice of Islamic Spiritual Leadership in Bangladeshi Organizations: A Qualitative Inquiry** — *Human Systems Management* — Awaiting reviewer assignment
+- **Workplace Flexibility and Organizational Commitment among Generation Z Employees: The Sequential Mediating Roles of Work-Life Balance and Work Engagement** — *International Journal of Organizational Leadership* — Peer review
+- **Algorithmic Transparency, Trust, and Perceived Fairness in AI-Based Performance Evaluation Systems: Implications for Sustainable Human Resource Management and SDG 8** — *AI and Ethics* — Peer review
+- **Responsible Leadership and Corporate Social Responsibility: A Bibliometric Analysis** — *Discover Sustainability* — Peer review
+- **How Transformational Leadership Shapes Lecturer Career Development in Indonesian Higher Education** — *Discover Education* — Peer review
+
+### Manuscripts in Preparation / Revision
+
+- **Toxic Leadership and Sensemaking in Bangladesh's Banking Sector: An Interpretative Phenomenological Analysis Applying Weick's Sensemaking Theory** — Revision
+- **Female Entrepreneurial Leadership in Indonesia** — Qualitative study in development
+- **Crisis Leadership in Bangladesh** — Qualitative study prepared for journal submission
+
+> Manuscript status is time-sensitive and may change as editorial processes progress.
+
+---
+
 # 🧪 Research Methods & Technical Skills
 
 ### Quantitative Research
 
-* PLS-SEM
-* Structural Equation Modeling
-* Mediation Analysis
-* Moderation Analysis
-* Predictive Analysis
-* Measurement Model Assessment
-* Structural Model Assessment
-* Common Method Bias Analysis
+- PLS-SEM
+- Structural Equation Modeling
+- Mediation Analysis
+- Moderation Analysis
+- Bootstrapping
+- Predictive Relevance
+- Measurement Model Assessment
+- Structural Model Assessment
+- Reflective Measurement Models
+- Second-Order Formative Measurement Models
+- Common Method Bias Assessment
 
 ### Statistical Software
 
-* SmartPLS 4
-* SPSS
-* R
+- SmartPLS 4
+- SPSS
+- R
+- Microsoft Excel
 
 ### Machine Learning
 
-* Artificial Neural Networks (ANN)
-* Machine Learning for Social Science
-* SHAP-based Interpretation
-* Hybrid SEM–Machine Learning Approaches
+- Artificial Neural Networks (ANN)
+- Hybrid SEM–Machine Learning
+- Machine Learning-Based Prediction
+- SHAP-Based Interpretation
+- Explainable Machine Learning
 
 ### Qualitative Research
 
-* Interpretative Phenomenological Analysis (IPA)
-* Thematic Analysis
-* Semi-structured Interviews
-* Sensemaking Analysis
+- Interpretative Phenomenological Analysis (IPA)
+- Thematic Analysis
+- Semi-structured Interviews
+- Sensemaking Analysis
+- Qualitative Research Design
 
 ### Literature & Bibliometric Research
 
-* Systematic Literature Review
-* Bibliometric Analysis
-* VOSviewer
-* Citation Analysis
-* Co-citation Analysis
-* Keyword Co-occurrence Analysis
+- Systematic Literature Review
+- PRISMA 2020
+- Bibliometric Analysis
+- VOSviewer
+- Citation Analysis
+- Co-citation Analysis
+- Keyword Co-occurrence Analysis
+- Scopus-Based Literature Analysis
+
+---
+
+# 🔎 Research Experience & Academic Output
+
+### Systematic Literature Review
+
+Co-authored a **PRISMA 2020-compliant Scopus review** that screened **222 records** and synthesized **29 peer-reviewed studies**, identifying dominant theories, methods, thematic mechanisms, and future research priorities at the **digital leadership–human–AI collaboration–sustainable performance** nexus.
+
+### Quantitative & PLS-SEM Research
+
+Applied **SmartPLS 4 and SPSS** to a stratified sample of **412 private-university employees**, assessing reflective and second-order formative measurement models, bootstrapped mediation, predictive relevance, and common method bias.
+
+### Bibliometric Analysis
+
+Led a **Scopus-based bibliometric review of responsible leadership and corporate social responsibility**, covering **97 documents from 2020–2025**, using VOSviewer for co-citation and keyword co-occurrence mapping.
+
+### Qualitative Research
+
+Designed semi-structured interview studies using **interpretative phenomenological analysis, thematic analysis, and sensemaking frameworks** across leadership and HRM topics in Indonesia and Bangladesh.
+
+### Academic Writing & Research Integrity
+
+Conducted systematic **APA 7, DOI, and reference verification**, supported manuscript revisions, and prepared structured responses to reviewers for journal resubmission.
 
 ---
 
@@ -182,272 +281,17 @@ I am currently preparing for **fully funded PhD opportunities** in Management, H
 My research agenda explores how organizations and employees respond to rapid technological and institutional change.
 
 ```text
-Digital Leadership
-        │
-        ▼
-Digital Transformation
-        │
-        ▼
-AI Adoption
-        │
-        ▼
-Human–AI Collaboration
-        │
-        ▼
-Employee & Organizational Outcomes
-```
-
-I am particularly interested in examining the mechanisms through which **leadership, digital readiness, trust, organizational support, perceived fairness, and employee capabilities** influence technology adoption and sustainable organizational outcomes.
-
----
-
-# 📝 Ongoing Research
-
-Current research interests and manuscript development include:
-
-* AI-enabled Human Resource Management
-* Algorithmic Transparency and Trust
-* Perceived Fairness in AI-based Performance Evaluation
-* Sustainable Human Resource Management
-* Leadership Perception in Remote Work
-* Islamic Spiritual Leadership
-* Workplace Flexibility and Generation Z
-* Responsible Leadership and Corporate Social Responsibility
-* Lecturer Career Development
-* Higher Education Management
-* AI Adoption in Organizations
-
----
-
-# 🎓 Education
-
-### Master of Management
-
-**Universitas Muhammadiyah Yogyakarta (UMY), Indonesia**
-
-2025–2026
-
-**CGPA: 3.91 / 4.00**
-
-Human Resource Management
-
-Fully Funded Scholarship Recipient
-
----
-
-### Bachelor of Arts (Hons) in English Language and Literature
-
-**Asian University of Bangladesh**
-
-2019–2023
-
-**CGPA: 3.71 / 4.00**
-
----
-
-# 💼 Academic & Leadership Experience
-
-### Director of Research and Professional Development
-
-**International Students Association (ISA), Universitas Muhammadiyah Yogyakarta**
-
-2025–Present
-
-Key responsibilities include:
-
-* Leading research-development initiatives
-* Organizing academic workshops and research forums
-* Supporting international students in research development
-* Providing guidance on scholarships and academic opportunities
-* Coordinating research-related programs
-* Supporting academic collaboration and networking
-
----
-
-# 🏆 Awards & Recognition
-
-### 🥇 Best Paper Award
-
-**Human Resource Track**
-
-International Student Colloquium Collaboration, 2025
-
-Awarded for:
-
-*Transformational Leadership Effects on Organizational Innovation and Employee Creativity: Evidence from Jakarta-Based Retail Export SMEs*
-
----
-
-### 🎖 Certificate of Reviewing
-
-**Asian Journal of Interdisciplinary Research**
-
-2026
-
-Peer-review contribution in research related to digital transformation, organizational efficiency, and financial resilience.
-
----
-
-### 🎓 International Research Bootcamp
-
-**International Students Association, UMY**
-
-2026
-
-Recognition for leadership, coordination, and contribution to the ISA International Research Bootcamp.
-
----
-
-# 🌏 International Academic Programs
-
-I have participated in international academic and summer-course programs covering:
-
-* Indonesian sociocultural and political dynamics
-* Minangkabau society
-* Ecosystem services and climate change
-* Community-based learning
-* Entrepreneurship and sustainable rural development
-* Indonesian language and cultural heritage
-
----
-
-# 👨‍🏫 Peer Review & Academic Service
-
-I have contributed to peer-review activities for international academic journals, including research related to:
-
-* Educational technology
-* Teaching quality
-* Digital transformation
-* Organizational efficiency
-* Financial resilience
-* Management and organizational research
-
----
-
-# 📊 Research Portfolio
-
-| Area                  | Methods / Tools                  |
-| --------------------- | -------------------------------- |
-| AI Adoption           | SEM, PLS-SEM, Machine Learning   |
-| Digital Leadership    | PLS-SEM, Mediation               |
-| E-HRM                 | PLS-SEM, Organizational Behavior |
-| Employee Engagement   | Mediation, SmartPLS              |
-| Higher Education      | SEM, Survey Research             |
-| Bibliometric Research | VOSviewer, Scopus                |
-| Qualitative Research  | IPA, Thematic Analysis           |
-| AI & Social Science   | ANN, SHAP                        |
-
----
-
-# 🛠️ Tools & Technologies
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/SmartPLS-4-blue?style=flat-square">
-<img src="https://img.shields.io/badge/SPSS-Statistics-orange?style=flat-square">
-<img src="https://img.shields.io/badge/R-Research-blue?style=flat-square">
-<img src="https://img.shields.io/badge/Python-Machine%20Learning-yellow?style=flat-square">
-<img src="https://img.shields.io/badge/VOSviewer-Bibliometric-green?style=flat-square">
-<img src="https://img.shields.io/badge/APA-7th%20Edition-red?style=flat-square">
-
-</p>
-
----
-
-# 📈 Research Statistics
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Peer--Reviewed%20Articles-4-success?style=for-the-badge">
-<img src="https://img.shields.io/badge/Research%20Manuscripts-8+-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/Research%20Methods-Quantitative%20%7C%20Qualitative-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/PLS--SEM-SmartPLS-purple?style=for-the-badge">
-
-</p>
-
----
-
-# 🌐 Academic Profiles
-
-<p align="center">
-
-<a href="https://scholar.google.com/citations?user=hfNSEOEAAAAJ&hl=en">
-<img src="https://img.shields.io/badge/Google%20Scholar-My%20Profile-blue?style=for-the-badge&logo=google-scholar">
-</a>
-
-<a href="https://www.scopus.com/authid/detail.uri?authorId=60781126500">
-<img src="https://img.shields.io/badge/Scopus-Author%20ID%2060781126500-orange?style=for-the-badge">
-</a>
-
-<a href="https://orcid.org/0009-0007-4544-6769">
-<img src="https://img.shields.io/badge/ORCID-0009--0007--4544--6769-green?style=for-the-badge&logo=orcid">
-</a>
-
-<a href="https://www.linkedin.com/in/israfilmunna/">
-<img src="https://img.shields.io/badge/LinkedIn-Israfil%20Munna-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-</p>
-
-### 🔗 Direct Academic Links
-
-* 📚 **Google Scholar:** https://scholar.google.com/citations?user=hfNSEOEAAAAJ&hl=en
-* 📊 **Scopus Author ID:** https://www.scopus.com/authid/detail.uri?authorId=60781126500
-* 🆔 **ORCID:** https://orcid.org/0009-0007-4544-6769
-* 💼 **LinkedIn:** https://www.linkedin.com/in/israfilmunna/
-* 💻 **GitHub:** https://github.com/israfilmunna
-
----
-
-# 🤝 Research Collaboration
-
-I am interested in collaborating on research projects related to:
-
-* Artificial Intelligence and Management
-* AI Adoption
-* Digital Leadership
-* AI-enabled HRM
-* Organizational Behavior
-* Employee Engagement
-* Sustainable HRM
-* Higher Education Management
-* Emerging Economies
-* Leadership and Organizational Studies
-
-I am particularly interested in **international research collaboration, joint publications, conference research, and doctoral research opportunities**.
-
----
-
-# 🎯 PhD Research Direction
-
-I am seeking a **fully funded PhD opportunity** in areas such as:
-
-**Management | Human Resource Management | Organizational Behavior | Leadership | Digital Transformation | AI & Organizations**
-
-My long-term research goal is to develop rigorous empirical research connecting **management theory, emerging technologies, leadership, and organizational challenges in developing and emerging economies.**
-
----
-
-# 📫 Contact
-
-📧 **Email:** [israfil.munna.psc25@mail.umy.ac.id](mailto:israfil.munna.psc25@mail.umy.ac.id)
-
-📍 **Yogyakarta, Indonesia**
-
-🌏 **Bangladeshi Researcher | Indonesia-based**
-
----
-
-<p align="center">
-
-### "Connecting management theory, technology, and organizational challenges through rigorous research."
-
-</p>
-
----
-
-<p align="center">
-
-⭐ If you find my research useful, feel free to explore my repositories and connect for academic collaboration.
-
-</p>
+                    DIGITAL LEADERSHIP
+                           │
+                           ▼
+                 DIGITAL TRANSFORMATION
+                           │
+                           ▼
+                      AI ADOPTION
+                           │
+                           ▼
+                HUMAN–AI COLLABORATION
+                           │
+                           ▼
+              EMPLOYEE & ORGANIZATIONAL
+                       OUTCOMES
