@@ -19,15 +19,19 @@
   <a href="https://scholar.google.com/citations?user=hfNSEOEAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar">
   </a>
+
   <a href="https://www.scopus.com/authid/detail.uri?authorId=60781126500">
     <img src="https://img.shields.io/badge/Scopus-Author%20ID%2060781126500-E9711C?style=for-the-badge" alt="Scopus">
   </a>
+
   <a href="https://orcid.org/0009-0007-4544-6769">
     <img src="https://img.shields.io/badge/ORCID-0009--0007--4544--6769-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
   </a>
+
   <a href="https://www.linkedin.com/in/israfilmunna/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+
   <a href="https://github.com/israfilmunna">
     <img src="https://img.shields.io/badge/GitHub-israfilmunna-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
@@ -301,6 +305,7 @@ Presented at the **International Student Colloquium Collaboration**, December 13
 # 👨‍💼 Research & Leadership Experience
 
 ### Director of Research and Professional Development
+
 **International Students Association (ISA), Universitas Muhammadiyah Yogyakarta | 2025–Present**
 
 - Lead leadership workshops, capacity-building programs, and research forums for international students.
@@ -311,6 +316,7 @@ Presented at the **International Student Colloquium Collaboration**, December 13
 - Coordinated the **ISA International Research Bootcamp 2026**.
 
 ### Assistant English Teacher
+
 **Education Prime School, Dhaka, Bangladesh | 2021–2023**
 
 - Supported structured English-language instruction across multiple grade levels.
@@ -338,11 +344,13 @@ Collaborative manuscripts have been developed for international peer-reviewed ou
 # 🧑‍⚖️ Peer Review & Editorial Service
 
 ### Invited Peer Reviewer
+
 **International Journal of Education and Practice | 2026**
 
 Contributed invited peer review concerning educational technology, teaching quality, and assessment methodology.
 
 ### Peer Reviewer
+
 **Asian Journal of Interdisciplinary Research | June 2026**
 
 Completed an invited review concerning digital transformation, market competition, operational efficiency, and financial resilience in banking.
@@ -361,6 +369,7 @@ Completed an invited review concerning digital transformation, market competitio
 # 🎓 Education
 
 ### Master of Management
+
 **Universitas Muhammadiyah Yogyakarta (UMY), Indonesia | 2025–2026**
 
 - Full-Funded Scholarship Recipient
@@ -371,6 +380,7 @@ Completed an invited review concerning digital transformation, market competitio
 - Formal degree conferral pending
 
 ### Bachelor of Arts (Hons) in English Language and Literature
+
 **Asian University of Bangladesh, Dhaka | 2019–2023**
 
 - CGPA: **3.71/4.00**
