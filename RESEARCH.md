@@ -49,7 +49,7 @@ I have completed the academic requirements for my **Master of Management at Univ
 
 My research examines how leadership, digital transformation, AI adoption, human resource practices, and organizational capabilities shape employee and organizational outcomes, particularly in **South and Southeast Asian emerging-market and higher-education contexts**.
 
-My current academic portfolio includes **five peer-reviewed journal articles**, **eight active manuscripts** across copyediting, layout, editorial decision, and peer-review stages, conference research, invited peer-review service, and systematic/bibliometric literature research.
+My current academic portfolio includes **seven peer-reviewed journal articles**, **eight active manuscripts** across copyediting, layout, editorial decision, and peer-review stages, conference research, invited peer-review service, and systematic/bibliometric literature research.
 
 I am preparing for **fully funded PhD opportunities** in Management, Human Resource Management, Organizational Behavior, Leadership, Digital Transformation, AI and Organizations, and related fields.
 
@@ -91,11 +91,39 @@ I am preparing for **fully funded PhD opportunities** in Management, Human Resou
 
 # 📚 Publications
 
-I have published **five peer-reviewed journal articles** covering digital leadership, human–AI collaboration, artificial intelligence adoption, electronic human resource management, employee engagement, higher education, and ChatGPT adoption.
+I have published **seven peer-reviewed journal articles** covering digital leadership, human–AI collaboration, artificial intelligence adoption, electronic human resource management, employee engagement, higher education, remote work, and ChatGPT adoption.
 
 ---
 
-## 1. Digital Leadership, Human–AI Collaboration & Sustainable Performance
+## 1. Leadership Perception, Remote Work & Decent Work
+
+**Munna, I., Ogueri, D. I., Sukumaran, S., & Udin, U. (2026).**
+
+*Leadership perception in remote work environments and implications for decent work: An inductive qualitative study in Indonesia.*
+
+**Journal of Engineering Management and Systems Engineering, 5(3), 377–401.**
+
+[DOI: 10.56578/jemse050306](https://doi.org/10.56578/jemse050306)
+
+🏷️ **Scopus Indexed Journal**
+
+---
+
+## 2. Transformational Leadership, AI Readiness & Innovative Work Behavior
+
+**Udin, U., Munna, I., Macariola, J. S., & Sukumaran, S. (2026).**
+
+*Modeling the pathway from transformational leadership to innovative work behavior via AI readiness: Advancing SDG 4 and SDG 8 in Indonesian higher education.*
+
+**Human Resources Management and Services, 8(4), 6117.**
+
+[DOI: 10.18282/hrms6117](https://doi.org/10.18282/hrms6117)
+
+🏷️ **Scopus Indexed Journal**
+
+---
+
+## 3. Digital Leadership, Human–AI Collaboration & Sustainable Performance
 
 **Md Saad, M. S., Munna, I., & Udin, U. (2026).**
 
@@ -109,7 +137,7 @@ I have published **five peer-reviewed journal articles** covering digital leader
 
 ---
 
-## 2. Electronic Human Resource Management & Employee Engagement
+## 4. Electronic Human Resource Management & Employee Engagement
 
 **Munna, I., Udin, U., Ogueri, D. I., & Sukumaran, S. (2026).**
 
@@ -123,7 +151,7 @@ I have published **five peer-reviewed journal articles** covering digital leader
 
 ---
 
-## 3. Digital Leadership & AI Adoption
+## 5. Digital Leadership & AI Adoption
 
 **Munna, I., & Udin, U. (2026).**
 
@@ -137,7 +165,7 @@ I have published **five peer-reviewed journal articles** covering digital leader
 
 ---
 
-## 4. Digital Leadership & Academic Performance
+## 6. Digital Leadership & Academic Performance
 
 **Munna, I. (2026).**
 
@@ -149,7 +177,7 @@ I have published **five peer-reviewed journal articles** covering digital leader
 
 ---
 
-## 5. ChatGPT Adoption & Hybrid SEM–Machine Learning
+## 7. ChatGPT Adoption & Hybrid SEM–Machine Learning
 
 **Munna, I. (2025).**
 
@@ -173,7 +201,10 @@ I have published **five peer-reviewed journal articles** covering digital leader
 | Higher Education Management | 2 |
 | Systematic Literature Review | 1 |
 | Hybrid SEM / Machine Learning | 1 |
-| **Total Peer-Reviewed Articles** | **5** |
+| Qualitative Leadership Research | 1 |
+| **Total Peer-Reviewed Articles** | **7** |
+
+> *Research areas overlap; individual publications may contribute to more than one research area.*
 
 ---
 
@@ -182,18 +213,27 @@ I have published **five peer-reviewed journal articles** covering digital leader
 **Eight manuscripts are currently active across copyediting, layout, editorial decision, and peer-review stages.**
 
 - **Machine Learning-Based Teaching Quality Assessment: A Case Study Using Student Survey Data** — *International Journal of Education and Practice* — Copyediting
+
 - **Leadership Perception in Remote Work Environments and Implications for Decent Work: An Inductive Qualitative Study in Indonesia** — *JEMSE* — Pending layout
+
 - **University-Community Engagement and Local Development: Evidence from Higher Education Institutions in Indonesia** — *CCDJ* — Pending editor decision
+
 - **The Practice of Islamic Spiritual Leadership in Bangladeshi Organizations: A Qualitative Inquiry** — *Human Systems Management* — Awaiting reviewer assignment
+
 - **Workplace Flexibility and Organizational Commitment among Generation Z Employees: The Sequential Mediating Roles of Work-Life Balance and Work Engagement** — *International Journal of Organizational Leadership* — Peer review
+
 - **Algorithmic Transparency, Trust, and Perceived Fairness in AI-Based Performance Evaluation Systems: Implications for Sustainable Human Resource Management and SDG 8** — *AI and Ethics* — Peer review
+
 - **Responsible Leadership and Corporate Social Responsibility: A Bibliometric Analysis** — *Discover Sustainability* — Peer review
+
 - **How Transformational Leadership Shapes Lecturer Career Development in Indonesian Higher Education** — *Discover Education* — Peer review
 
 ### Manuscripts in Preparation / Revision
 
 - **Toxic Leadership and Sensemaking in Bangladesh's Banking Sector: An Interpretative Phenomenological Analysis Applying Weick's Sensemaking Theory** — Revision
+
 - **Female Entrepreneurial Leadership in Indonesia** — Qualitative study in development
+
 - **Crisis Leadership in Bangladesh** — Qualitative study prepared for journal submission
 
 > Manuscript status is time-sensitive and may change as editorial processes progress.
@@ -281,17 +321,17 @@ Conducted systematic **APA 7, DOI, and reference verification**, supported manus
 My research agenda explores how organizations and employees respond to rapid technological and institutional change.
 
 ```text
-                    DIGITAL LEADERSHIP
-                           │
-                           ▼
-                 DIGITAL TRANSFORMATION
-                           │
-                           ▼
-                      AI ADOPTION
-                           │
-                           ▼
-                HUMAN–AI COLLABORATION
-                           │
-                           ▼
-              EMPLOYEE & ORGANIZATIONAL
-                       OUTCOMES
+                     DIGITAL LEADERSHIP
+                            │
+                            ▼
+                  DIGITAL TRANSFORMATION
+                            │
+                            ▼
+                       AI ADOPTION
+                            │
+                            ▼
+                 HUMAN–AI COLLABORATION
+                            │
+                            ▼
+               EMPLOYEE & ORGANIZATIONAL
+                        OUTCOMES
