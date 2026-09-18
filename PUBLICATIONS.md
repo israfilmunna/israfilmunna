@@ -2,7 +2,37 @@
 
 ## Peer-Reviewed Journal Articles
 
-### 1. Digital Leadership, Human–AI Collaboration and Sustainable Performance
+### 1. Leadership Perception in Remote Work Environments and Decent Work
+
+**Munna, I., Ogueri, D. I., Sukumaran, S., & Udin, U. (2026).**
+
+Leadership perception in remote work environments and implications for decent work: An inductive qualitative study in Indonesia.
+
+**Journal of Engineering Management and Systems Engineering, 5(3), 377–401.**
+
+- **DOI:** https://doi.org/10.56578/jemse050306
+- **Research Area:** Leadership | Remote Work | Decent Work
+- **Context:** Indonesia
+- **Method:** Inductive Qualitative Study
+
+---
+
+### 2. Transformational Leadership, AI Readiness and Innovative Work Behavior
+
+**Udin, U., Munna, I., Macariola, J. S., & Sukumaran, S. (2026).**
+
+Modeling the pathway from transformational leadership to innovative work behavior via AI readiness: Advancing SDG 4 and SDG 8 in Indonesian higher education.
+
+**Human Resources Management and Services, 8(4), 6117.**
+
+- **DOI:** https://doi.org/10.18282/hrms6117
+- **Research Area:** Transformational Leadership | AI Readiness | Innovative Work Behavior
+- **Context:** Higher Education in Indonesia
+- **Method:** Quantitative Research | Mediation Analysis
+
+---
+
+### 3. Digital Leadership, Human–AI Collaboration and Sustainable Performance
 
 **Md Saad, M. S., Munna, I., & Udin, U. (2026).**
 
@@ -18,7 +48,7 @@ Digital leadership and human–AI collaboration for sustainable organizational p
 
 ---
 
-### 2. Electronic Human Resource Management and Employee Engagement
+### 4. Electronic Human Resource Management and Employee Engagement
 
 **Munna, I., Udin, U., Ogueri, D. I., & Sukumaran, S. (2026).**
 
@@ -33,7 +63,7 @@ Electronic human resource management and employee engagement for sustainable dev
 
 ---
 
-### 3. Digital Leadership and AI Adoption
+### 5. Digital Leadership and AI Adoption
 
 **Munna, I., & Udin, U. (2026).**
 
@@ -48,7 +78,7 @@ Digital leadership and AI adoption intention and usage in SMEs: The mediating ro
 
 ---
 
-### 4. Digital Leadership and Academic Performance
+### 6. Digital Leadership and Academic Performance
 
 **Munna, I. (2026).**
 
@@ -63,7 +93,7 @@ Digital Leadership and Academic Performance: The Mediating Role of Knowledge Sha
 
 ---
 
-### 5. ChatGPT Adoption and Machine Learning
+### 7. ChatGPT Adoption and Hybrid SEM–Machine Learning
 
 **Munna, I. (2025).**
 
@@ -82,20 +112,20 @@ Understanding ChatGPT Adoption among University Students in Yogyakarta, Indonesi
 
 | Metric | Details |
 |---|---:|
-| **Peer-Reviewed Journal Articles** | **5** |
-| **2026 Publications** | **4** |
+| **Peer-Reviewed Journal Articles** | **7** |
+| **2026 Publications** | **6** |
 | **2025 Publications** | **1** |
-| **AI / ChatGPT Research** | **2** |
+| **AI / ChatGPT Research** | **3** |
 | **Digital Leadership Research** | **3** |
 | **Human–AI Collaboration Research** | **1** |
 | **E-HRM Research** | **1** |
 | **Employee Engagement Research** | **1** |
 | **Higher Education Research** | **2** |
 | **Bangladesh-Based Research** | **2** |
-| **Indonesia-Based Research** | **1** |
+| **Indonesia-Based Research** | **3** |
 | **Systematic Literature Review** | **1** |
 | **Hybrid SEM–Machine Learning** | **1** |
-| **PLS-SEM Research** | **3** |
+| **Qualitative Research** | **1** |
 
 ---
 
@@ -104,19 +134,31 @@ Understanding ChatGPT Adoption among University Students in Yogyakarta, Indonesi
 ```text
                          MANAGEMENT RESEARCH
                                 │
-               ┌────────────────┼────────────────┐
-               │                │                │
-               ▼                ▼                ▼
-       DIGITAL LEADERSHIP    AI ADOPTION        E-HRM
-               │                │                │
-               ▼                ▼                ▼
-      HUMAN–AI COLLABORATION  ChatGPT Adoption  EMPLOYEE ENGAGEMENT
-               │                │                │
-               ▼                ▼                ▼
-    SUSTAINABLE PERFORMANCE  MACHINE LEARNING  ORGANIZATIONAL SUPPORT
-               │                │                │
-               └────────────────┼────────────────┘
+             ┌──────────────────┼──────────────────┐
+             │                  │                  │
+             ▼                  ▼                  ▼
+      DIGITAL LEADERSHIP    AI & DIGITAL HRM     LEADERSHIP
+             │                  │                  │
+             ▼                  ▼                  ▼
+    HUMAN–AI COLLABORATION   AI ADOPTION      TRANSFORMATIONAL
+             │                  │              LEADERSHIP
+             ▼                  ▼                  │
+    SUSTAINABLE PERFORMANCE  ChatGPT Adoption    ▼
+             │                  │           AI READINESS
+             │                  │                  │
+             └──────────────────┼──────────────────┘
                                 │
                                 ▼
-                   EMPLOYEE & ORGANIZATIONAL
+                  EMPLOYEE & ORGANIZATIONAL
                            OUTCOMES
+                                │
+             ┌──────────────────┼──────────────────┐
+             │                  │                  │
+             ▼                  ▼                  ▼
+      EMPLOYEE ENGAGEMENT  INNOVATIVE WORK   ACADEMIC
+             │               BEHAVIOR        PERFORMANCE
+             │                  │                  │
+             └──────────────────┼──────────────────┘
+                                │
+                                ▼
+                     SUSTAINABLE ORGANIZATIONS
