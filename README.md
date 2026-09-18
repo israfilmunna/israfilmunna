@@ -33,7 +33,7 @@
   </a>
 
   <a href="https://github.com/israfilmunna">
-    <img src="https://img.shields.io/badge/GitHub-israfilmunna-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-israfilmunna-181717?style=for-the-badge" alt="GitHub">
   </a>
 </p>
 
@@ -49,7 +49,7 @@ I have completed the academic requirements for my **Master of Management at Univ
 
 My research examines how leadership, digital transformation, AI adoption, human resource practices, and organizational capabilities shape employee and organizational outcomes, particularly in **South and Southeast Asian emerging-market and higher-education contexts**.
 
-My current academic portfolio includes **five peer-reviewed journal articles**, **eight active manuscripts** across copyediting, layout, editorial decision, and peer-review stages, conference research, invited peer-review service, and systematic/bibliometric literature research.
+My current academic portfolio includes **seven peer-reviewed journal articles**, **eight active manuscripts** across copyediting, layout, editorial decision, and peer-review stages, conference research, invited peer-review service, and systematic/bibliometric literature research.
 
 I am preparing for **fully funded PhD opportunities** in Management, Human Resource Management, Organizational Behavior, Leadership, Digital Transformation, AI and Organizations, and related fields.
 
@@ -91,7 +91,7 @@ I am preparing for **fully funded PhD opportunities** in Management, Human Resou
 
 # 📚 Publications
 
-I have published **five peer-reviewed journal articles** covering digital leadership, human–AI collaboration, AI adoption, electronic human resource management, employee engagement, higher education, and ChatGPT adoption.
+I have published **seven peer-reviewed journal articles** covering digital leadership, human–AI collaboration, AI adoption, electronic human resource management, employee engagement, higher education, remote work, and ChatGPT adoption.
 
 ---
 
@@ -166,6 +166,36 @@ https://doi.org/10.56578/esm030402
 
 ---
 
+## 6. Leadership Perception, Remote Work & Decent Work
+
+**Munna, I., Ogueri, D. I., Sukumaran, S., & Udin, U. (2026).**
+
+*Leadership perception in remote work environments and implications for decent work: An inductive qualitative study in Indonesia.*
+
+**Journal of Engineering Management and Systems Engineering, 5(3), 377–401.**
+
+🔗 **DOI:**  
+https://doi.org/10.56578/jemse050306
+
+🏷️ **Scopus Indexed Journal**
+
+---
+
+## 7. Transformational Leadership, AI Readiness & Innovative Work Behavior
+
+**Udin, U., Munna, I., Macariola, J. S., & Sukumaran, S. (2026).**
+
+*Modeling the pathway from transformational leadership to innovative work behavior via AI readiness: Advancing SDG 4 and SDG 8 in Indonesian higher education.*
+
+**Human Resources Management and Services, 8(4), 6117.**
+
+🔗 **DOI:**  
+https://doi.org/10.18282/hrms6117
+
+🏷️ **Scopus Indexed Journal**
+
+---
+
 # 📊 Publication Overview
 
 | Research Area | Articles |
@@ -175,10 +205,12 @@ https://doi.org/10.56578/esm030402
 | Human–AI Collaboration | 1 |
 | Electronic Human Resource Management | 1 |
 | Employee Engagement | 1 |
-| Higher Education Management | 2 |
+| Higher Education Management | 3 |
+| Sustainable Organizational Performance | 1 |
 | Systematic Literature Review | 1 |
 | Hybrid SEM / Machine Learning | 1 |
-| **Total Peer-Reviewed Articles** | **5** |
+| Qualitative Leadership Research | 1 |
+| **Total Peer-Reviewed Articles** | **7** |
 
 ---
 
@@ -187,18 +219,27 @@ https://doi.org/10.56578/esm030402
 **Eight manuscripts are currently active across copyediting, layout, editorial decision, and peer-review stages** (status reported in the CV as of 25 July 2026).
 
 - **Machine Learning-Based Teaching Quality Assessment: A Case Study Using Student Survey Data** — *International Journal of Education and Practice* — Copyediting
+
 - **Leadership Perception in Remote Work Environments and Implications for Decent Work: An Inductive Qualitative Study in Indonesia** — *JEMSE* — Pending layout
+
 - **University-Community Engagement and Local Development: Evidence from Higher Education Institutions in Indonesia** — *CCDJ* — Pending editor decision
+
 - **The Practice of Islamic Spiritual Leadership in Bangladeshi Organizations: A Qualitative Inquiry** — *Human Systems Management* — Awaiting reviewer assignment
+
 - **Workplace Flexibility and Organizational Commitment among Generation Z Employees: The Sequential Mediating Roles of Work-Life Balance and Work Engagement** — *International Journal of Organizational Leadership* — Peer review
+
 - **Algorithmic Transparency, Trust, and Perceived Fairness in AI-Based Performance Evaluation Systems: Implications for Sustainable Human Resource Management and SDG 8** — *AI and Ethics* — Peer review
+
 - **Responsible Leadership and Corporate Social Responsibility: A Bibliometric Analysis** — *Discover Sustainability* — Peer review
+
 - **How Transformational Leadership Shapes Lecturer Career Development in Indonesian Higher Education** — *Discover Education* — Peer review
 
 ### Manuscripts in Preparation / Revision
 
 - **Toxic Leadership and Sensemaking in Bangladesh's Banking Sector: An Interpretative Phenomenological Analysis Applying Weick's Sensemaking Theory** — Revision
+
 - **Female Entrepreneurial Leadership in Indonesia** — Qualitative study in development
+
 - **Crisis Leadership in Bangladesh** — Qualitative study prepared for journal submission
 
 > Manuscript status is time-sensitive and may change as editorial processes progress.
@@ -285,7 +326,9 @@ Conducted systematic **APA 7, DOI, and reference verification**, supported manus
 # 🏆 Honors & Awards
 
 - 🥇 **Best Paper Award – Human Resource Track**, International Student Colloquium Collaboration, December 13, 2025.
+
 - 🎓 **Certificate of Appreciation**, International Students Association, UMY, for leadership, coordination, and contribution to the **ISA International Research Bootcamp 2026**.
+
 - 🔎 **Certificate of Reviewing**, Asian Journal of Interdisciplinary Research, June 2026.
 
 ---
@@ -360,8 +403,11 @@ Completed an invited review concerning digital transformation, market competitio
 # 🌏 Academic Training & International Programs
 
 - **International Summer Course 2026**, Universitas Andalas — Understanding Indonesian Sociocultural and Political Dynamics: Focus on Minangkabau Society.
+
 - **Xth International Forestry Summer Course 2026**, Universitas Gadjah Mada — The Forest for Life: Managing Ecosystem Services in a Changing Climate.
+
 - **Summer Course Session 4 2026**, Universitas Negeri Semarang — Community-Based Learning: Entrepreneurship, Local Culture, and Sustainable Rural Development.
+
 - **International Short Course Program 2026**, UIN Walisongo — Preserving Indonesia's Language and Cultural Heritage.
 
 ---
