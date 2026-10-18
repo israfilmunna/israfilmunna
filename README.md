@@ -1,37 +1,72 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/IM-182B49?style=for-the-badge" height="44" alt="IM — Israfil Munna monogram" />
+  <img src="https://img.shields.io/badge/IM-ACADEMIC%20PORTFOLIO-14213D?style=for-the-badge&amp;labelColor=B89658" height="36" alt="IM — Academic Portfolio" />
 </p>
 
-<h1 align="center">Israfil Munna</h1>
-<p align="center"><b>Management &amp; Leadership Researcher</b><br/>PhD Scholarship Applicant</p>
-<p align="center">Leadership &nbsp; · &nbsp; AI Adoption &nbsp; · &nbsp; Human–AI Collaboration &nbsp; · &nbsp; HRM</p>
-<p align="center">Yogyakarta, Indonesia<br/><a href="mailto:israfil.munna.psc25@mail.umy.ac.id">israfil.munna.psc25@mail.umy.ac.id</a> &nbsp; · &nbsp; <a href="tel:+6282146119240">(+62) 821-4611-9240</a></p>
+<h1 align="center">ISRAFIL MUNNA</h1>
+<h3 align="center">Management &amp; Leadership Researcher</h3>
+<p align="center"><b>Leadership · Artificial Intelligence · People · Organizations</b></p>
 
 <p align="center">
-  <a href="https://scholar.google.com/citations?user=hfNSEOEAAAAJ&amp;hl=en"><img src="https://img.shields.io/badge/Google_Scholar-182B49?style=flat-square&amp;logo=googlescholar&amp;logoColor=white" alt="Google Scholar" /></a>
-  <a href="https://www.scopus.com/authid/detail.uri?authorId=60781126500"><img src="https://img.shields.io/badge/Scopus-182B49?style=flat-square" alt="Scopus" /></a>
-  <a href="https://orcid.org/0009-0007-4544-6769"><img src="https://img.shields.io/badge/ORCID-182B49?style=flat-square&amp;logo=orcid&amp;logoColor=white" alt="ORCID" /></a>
-  <a href="https://www.linkedin.com/in/israfilmunna/"><img src="https://img.shields.io/badge/LinkedIn-182B49?style=flat-square" alt="LinkedIn" /></a>
-  <a href="https://github.com/israfilmunna"><img src="https://img.shields.io/badge/GitHub-182B49?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+  <img src="https://img.shields.io/badge/PhD-Scholarship%20Applicant-14213D?style=flat-square&amp;labelColor=52657C" alt="PhD Scholarship Applicant" />
+  <img src="https://img.shields.io/badge/Research-South%20%26%20Southeast%20Asia-14213D?style=flat-square&amp;labelColor=52657C" alt="Research across South and Southeast Asia" />
 </p>
 
-<p align="center"><sub>ORCID: 0009-0007-4544-6769 · Academic information as reported in the October 2026 CV</sub></p>
+<p align="center">
+  Yogyakarta, Indonesia<br/>
+  <a href="mailto:israfil.munna.psc25@mail.umy.ac.id">israfil.munna.psc25@mail.umy.ac.id</a> &nbsp; · &nbsp;
+  <a href="tel:+6282146119240">(+62) 821-4611-9240</a>
+</p>
+
+<p align="center">
+  <a href="https://scholar.google.com/citations?user=hfNSEOEAAAAJ&amp;hl=en"><img src="https://img.shields.io/badge/Google_Scholar-14213D?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=white" alt="Google Scholar" /></a>
+  <a href="https://www.scopus.com/authid/detail.uri?authorId=60781126500"><img src="https://img.shields.io/badge/Scopus-14213D?style=for-the-badge" alt="Scopus" /></a>
+  <a href="https://orcid.org/0009-0007-4544-6769"><img src="https://img.shields.io/badge/ORCID-14213D?style=for-the-badge&amp;logo=orcid&amp;logoColor=white" alt="ORCID" /></a>
+  <a href="https://www.linkedin.com/in/israfilmunna/"><img src="https://img.shields.io/badge/LinkedIn-14213D?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://github.com/israfilmunna"><img src="https://img.shields.io/badge/GitHub-14213D?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+</p>
+
+<p align="center"><sub>ORCID: 0009-0007-4544-6769 · Academic record: October 2026</sub></p>
 
 ---
 
-<p align="center"><a href="#about-me">About</a> · <a href="#education">Education</a> · <a href="#research-interests">Research</a> · <a href="#professional-experience">Experience</a> · <a href="#publications">Publications</a> · <a href="#honors-and-awards">Awards</a> · <a href="#academic-training">Training</a><br/><a href="#manuscripts">Manuscripts</a> · <a href="#peer-review">Peer review</a> · <a href="#research-experience">Methods</a> · <a href="#skills">Skills</a> · <a href="#languages">Languages</a> · <a href="#research-intent">Research intent</a> · <a href="#activities">Activities</a> · <a href="#references">References</a></p>
+<table>
+<tr>
+<td align="center" width="33%"><small>ACADEMIC FOUNDATION</small><br/><br/><b>Master of Management</b><br/>Human Resource Management<br/><small>UMY · Fully funded scholarship</small><br/><br/></td>
+<td align="center" width="34%"><small>RESEARCH CONTEXT</small><br/><br/><b>Bangladesh &amp; Indonesia</b><br/>Emerging economies<br/><small>South &amp; Southeast Asia</small><br/><br/></td>
+<td align="center" width="33%"><small>DOCTORAL DIRECTION</small><br/><br/><b>Leadership &amp; AI</b><br/>People and organizations<br/><small>Seeking a fully funded PhD</small><br/><br/></td>
+</tr>
+</table>
+
+<p align="center"><sub>Master's academic requirements completed July 2026; formal degree conferral pending.</sub></p>
+
+<details>
+<summary><b>EXPLORE THIS PROFILE — Section directory</b></summary>
+
+| Background | Research portfolio | Academic contribution |
+|---|---|---|
+| [01 · About me](#about-me) | [03 · Research interests](#research-interests) | [06 · Honors & awards](#honors-and-awards) |
+| [02 · Education](#education) | [05 · Publications](#publications) | [07 · International programs](#academic-training) |
+| [04 · Experience](#professional-experience) | [08 · Manuscripts](#manuscripts) | [09 · Peer review](#peer-review) |
+| [11 · Skills](#skills) | [10 · Research methods](#research-experience) | [14 · Activities](#activities) |
+| [12 · Languages](#languages) | [13 · Research intent](#research-intent) | [15 · References](#references) |
+
+</details>
+
+---
 
 <a name="about-me"></a>
 
-## About Me
+## 01 &nbsp; / &nbsp; About Me
 
 Early-career management researcher with a strong foundation in organizational behavior, leadership, human resource management, and strategic management. I have completed the academic requirements for the Master of Management at Universitas Muhammadiyah Yogyakarta (UMY), Indonesia, under a fully funded scholarship (CGPA: 3.90/4.00; formal degree conferral pending). My research focuses on leadership, AI adoption, human resource management, higher education, and sustainable organizational performance in emerging-market contexts, particularly South and Southeast Asia. My portfolio includes peer-reviewed journal articles, thirteen manuscripts in peer review, and invited peer-review service. I am seeking a fully funded PhD opportunity to deepen my methodological expertise and produce rigorous, publication-quality management research.
 
 > **Seeking a fully funded PhD opportunity** to deepen my methodological expertise and contribute rigorous, publication-quality management research.
 
+---
+
 <a name="education"></a>
 
-## Education
+## 02 &nbsp; / &nbsp; Education
 
 ### Master of Management (Human Resource)
 
@@ -52,9 +87,11 @@ Early-career management researcher with a strong foundation in organizational be
 - Developed advanced analytical and academic writing competencies applicable to research and scholarly work.
 - Developed competencies in literature review, source evaluation, academic materials, and structured scholarly writing.
 
+---
+
 <a name="research-interests"></a>
 
-## Research Interests
+## 03 &nbsp; / &nbsp; Research Interests
 
 **Primary areas**  
 Leadership · AI Adoption · Human–AI Collaboration · E-HRM & Employee Engagement
@@ -62,9 +99,11 @@ Leadership · AI Adoption · Human–AI Collaboration · E-HRM & Employee Engage
 **Secondary areas**  
 Sustainable & Responsible Leadership · Sustainable Organizational Performance · Organizational Behavior & HRM · Higher Education Management · Emerging Economies
 
+---
+
 <a name="professional-experience"></a>
 
-## Professional Experience
+## 04 &nbsp; / &nbsp; Professional Experience
 
 ### Director of Research and Professional Development
 
@@ -85,9 +124,11 @@ Sustainable & Responsible Leadership · Sustainable Organizational Performance �
 - Designed supplementary teaching materials to reinforce grammar, vocabulary, and communicative competence.
 - Supported lead instructors in delivering structured English language instruction across multiple grade levels.
 
+---
+
 <a name="publications"></a>
 
-## Publications
+## 05 &nbsp; / &nbsp; Publications
 
 ### Peer-reviewed journal articles
 
@@ -118,9 +159,11 @@ The CV’s research-profile summary reports thirteen peer-reviewed journal artic
 
 Munna, I., & Udin, U. (2025). Transformational Leadership Effects on Organizational Innovation and Employee Creativity: Evidence from Jakarta-Based Retail Export SMEs. Presented at the International Student Colloquium Collaboration, December 13, 2025. [Best Paper Award – Human Resource Track]
 
+---
+
 <a name="honors-and-awards"></a>
 
-## Honors & Awards
+## 06 &nbsp; / &nbsp; Honors & Awards
 
 - Best Paper Award – Human Resource Track, International Student Colloquium Collaboration, jointly organized by Universitas Muhammadiyah Riau, Universitas Muhammadiyah Surakarta, and Management and Science University (Malaysia), 13 December 2025. Awarded for the co-authored paper, “Transformational Leadership Effects on Organizational Innovation and Employee Creativity: Evidence from Jakarta-Based Retail Export SMEs.” Certificate No. 004/COLL-INT/XII/2025.
 
@@ -128,12 +171,14 @@ Munna, I., & Udin, U. (2025). Transformational Leadership Effects on Organizatio
 
 - Certificate of Reviewing, Asian Journal of Interdisciplinary Research, June 2026. Awarded in recognition of contribution as a peer reviewer for the journal.
 
+---
+
 <a name="academic-training"></a>
 
-## Academic Training & International Programs
+## 07 &nbsp; / &nbsp; Academic Training & International Programs
 
 <details>
-<summary><b>View all four programs, dates, themes, and certificate details</b></summary>
+<summary><b>INTERNATIONAL PROGRAMS · Four courses and training experiences</b></summary>
 
 - International Short Course Program 2026, International Office, Universitas Islam Negeri Walisongo (UIN Walisongo), Semarang, Indonesia, 10–12 August 2026. Theme: “Preserving Indonesia’s Language and Cultural Heritage.” Certificate No. 310/Un.10.0/P11/KM.00.11/08/2026.
 
@@ -145,12 +190,14 @@ Munna, I., & Udin, U. (2025). Transformational Leadership Effects on Organizatio
 
 </details>
 
+---
+
 <a name="manuscripts"></a>
 
-## Manuscripts
+## 08 &nbsp; / &nbsp; Manuscripts
 
 <details>
-<summary><b>View 13 manuscripts under review and one manuscript in preparation</b></summary>
+<summary><b>RESEARCH PIPELINE · 13 manuscripts under review + 1 in preparation</b></summary>
 
 **Thirteen manuscripts in peer review, as reported in the CV in October 2026.**
 
@@ -186,9 +233,11 @@ Will AI Replace Me or Empower Me? AI Adoption, Career Insecurity, and Adaptive P
 
 </details>
 
+---
+
 <a name="peer-review"></a>
 
-## Peer Review & Editorial Service
+## 09 &nbsp; / &nbsp; Peer Review & Editorial Service
 
 **Invited Peer Reviewer — International Journal of Education and Practice** · June 2026
 
@@ -198,12 +247,14 @@ Will AI Replace Me or Empower Me? AI Adoption, Career Insecurity, and Adaptive P
 
 - Completed an invited review concerning digital transformation, market competition, operational efficiency, and financial resilience in banking; received the journal’s Certificate of Reviewing in June 2026.
 
+---
+
 <a name="research-experience"></a>
 
-## Research Experience & Academic Output
+## 10 &nbsp; / &nbsp; Research Experience & Academic Output
 
 <details>
-<summary><b>View all 11 areas of methodological experience</b></summary>
+<summary><b>METHODOLOGICAL EXPERIENCE · 11 areas of research practice</b></summary>
 
 ### Bibliometric Analysis
 
@@ -255,9 +306,20 @@ Experienced in developing conceptual frameworks, specifying independent, depende
 
 Active research collaborator with Dr. Udin Udin, Department of Management, Faculty of Economics and Business, UMY, across projects on leadership, organizational behavior, AI adoption, human–AI collaboration, and higher education management.
 
+---
+
 <a name="skills"></a>
 
-## Skills & Competencies
+## 11 &nbsp; / &nbsp; Skills & Competencies
+
+<p>
+  <img src="https://img.shields.io/badge/R-14213D?style=flat-square&amp;logo=r&amp;logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/SmartPLS_4-14213D?style=flat-square" alt="SmartPLS 4" />
+  <img src="https://img.shields.io/badge/SPSS-14213D?style=flat-square" alt="SPSS" />
+  <img src="https://img.shields.io/badge/VOSviewer-14213D?style=flat-square" alt="VOSviewer" />
+  <img src="https://img.shields.io/badge/PRISMA_2020-14213D?style=flat-square" alt="PRISMA 2020" />
+  <img src="https://img.shields.io/badge/ANN_%26_SHAP-14213D?style=flat-square" alt="ANN and SHAP" />
+</p>
 
 ### Research & academic
 
@@ -277,9 +339,11 @@ Active research collaborator with Dr. Udin Udin, Department of Management, Facul
 - Digital collaboration: Zoom, Microsoft Teams, and Google Meet
 - Social media and research dissemination
 
+---
+
 <a name="languages"></a>
 
-## Language Proficiency
+## 12 &nbsp; / &nbsp; Language Proficiency
 
 | Language | Listening | Reading | Speaking | Interaction | Writing |
 |---|---|---|---|---|---|
@@ -290,12 +354,14 @@ Active research collaborator with Dr. Udin Udin, Department of Management, Facul
 
 **CEFR:** A1/A2 = Basic · B1/B2 = Independent · C1/C2 = Proficient.
 
+---
+
 <a name="research-intent"></a>
 
-## Statement of Research Intent
+## 13 &nbsp; / &nbsp; Statement of Research Intent
 
 <details>
-<summary><b>Read my doctoral research motivation and intended contribution</b></summary>
+<summary><b>DOCTORAL RESEARCH · Motivation, methodology, and intended contribution</b></summary>
 
 My aspiration to pursue a PhD is grounded in a developing research profile across leadership, organizational behavior, human resource management, AI-enabled management, and sustainable organizational performance. Through my Master of Management at Universitas Muhammadiyah Yogyakarta, completed under a fully funded scholarship, I have built experience across quantitative, qualitative, systematic review, and bibliometric research. My methodological background includes PLS-SEM using SmartPLS and SPSS, higher-order measurement modeling, mediation analysis, systematic literature review following PRISMA 2020 principles, bibliometric analysis using VOSviewer, and qualitative inquiry based on semi-structured interviews, thematic analysis, phenomenological approaches, and sensemaking frameworks. I have also developed experience in questionnaire design, data preparation, conceptual model development, citation and reference verification, manuscript revision, and structured responses to peer reviewers. 
 
@@ -303,12 +369,14 @@ My research experience has increasingly focused on leadership, AI adoption, huma
 
 </details>
 
+---
+
 <a name="activities"></a>
 
-## Leadership, Volunteering & Academic Activities
+## 14 &nbsp; / &nbsp; Leadership, Volunteering & Academic Activities
 
 <details>
-<summary><b>View leadership, community involvement, and academic interests</b></summary>
+<summary><b>ACADEMIC ENGAGEMENT · Leadership, community, and interests</b></summary>
 
 - Active community volunteer: organized and participated in social and educational outreach projects.
 
@@ -324,12 +392,14 @@ My research experience has increasingly focused on leadership, AI adoption, huma
 
 </details>
 
+---
+
 <a name="references"></a>
 
-## Academic References
+## 15 &nbsp; / &nbsp; Academic References
 
 <details>
-<summary><b>View academic referees and professional contact details</b></summary>
+<summary><b>ACADEMIC REFEREES · Affiliations and professional contact details</b></summary>
 
 ### Prof. Dr. E. Ika Nurul Qamari, S.E., M.Si.
 
