@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0a1526"/><stop offset="1" stop-color="#153848"/></linearGradient><linearGradient id="line"><stop stop-color="#56dcc6"/><stop offset="1" stop-color="#8cb4eb"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#b8d8e5" stroke-opacity=".055"/></pattern></defs>
+<rect width="1280" height="400" rx="20" fill="url(#bg)"/><rect width="1280" height="400" rx="20" fill="url(#grid)"/>
+<circle cx="1140" cy="160" r="240" fill="none" stroke="#72d4c6" stroke-opacity=".09"/><circle cx="1140" cy="160" r="175" fill="none" stroke="#72d4c6" stroke-opacity=".12"/><circle cx="1140" cy="160" r="110" fill="none" stroke="#72d4c6" stroke-opacity=".16"/>
+<g stroke="#7abdbf" stroke-opacity=".35" fill="none"><path d="M918 91L1040 130L1110 68L1192 162L1060 236L1164 310M1040 130L1060 236L929 275M1110 68L1060 236M1040 130L1192 162"/></g>
+<g fill="#6edbc6"><circle cx="918" cy="91" r="5"/><circle cx="1040" cy="130" r="8"/><circle cx="1110" cy="68" r="5"/><circle cx="1192" cy="162" r="6"/><circle cx="1060" cy="236" r="8"/><circle cx="1164" cy="310" r="5"/><circle cx="929" cy="275" r="5"/></g>
+<rect x="64" y="62" width="44" height="4" rx="2" fill="#68deca"/>
+<text x="124" y="70" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" letter-spacing="3" fill="#a5c3d4">LEADERSHIP · TECHNOLOGY · ORGANIZATIONS</text>
+<text x="60" y="164" font-family="DejaVu Sans,Arial,sans-serif" font-size="66" font-weight="700" letter-spacing="-2" fill="#f2f6fa">Israfil Munna</text>
+<text x="64" y="211" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" fill="#b9d2df">Management &amp; Leadership Researcher</text>
+<text x="64" y="256" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#71dfcc">AI adoption  /  Human–AI collaboration  /  HRM</text>
+<path d="M64 294H800" stroke="#698c9f" stroke-opacity=".3"/>
+<text x="64" y="334" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" letter-spacing="1" fill="#b9cedb">YOGYAKARTA, INDONESIA</text>
+<text x="402" y="334" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" letter-spacing="1" fill="#b9cedb">PHD SCHOLARSHIP APPLICANT</text>
+</svg>

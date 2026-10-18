@@ -1,122 +1,149 @@
-<div align="center">
+<p align="center">
+  <img src="assets/research-banner.svg" width="100%" alt="Israfil Munna — Management and Leadership Researcher. AI adoption, human–AI collaboration, and HRM. Yogyakarta, Indonesia. PhD Scholarship Applicant." />
+</p>
 
-# Israfil Munna
+<p align="center">
+  <a href="https://scholar.google.com/citations?user=hfNSEOEAAAAJ&amp;hl=en"><img src="https://img.shields.io/badge/Google_Scholar-Research_Profile-153848?style=flat-square&amp;logo=googlescholar&amp;logoColor=white" alt="Google Scholar" /></a>
+  <a href="https://orcid.org/0009-0007-4544-6769"><img src="https://img.shields.io/badge/ORCID-0009--0007--4544--6769-153848?style=flat-square&amp;logo=orcid&amp;logoColor=white" alt="ORCID" /></a>
+  <a href="https://www.linkedin.com/in/israfilmunna/"><img src="https://img.shields.io/badge/LinkedIn-Connect-153848?style=flat-square" alt="LinkedIn" /></a>
+  <a href="mailto:israfil.munna.psc25@mail.umy.ac.id"><img src="https://img.shields.io/badge/Email-Get_in_Touch-153848?style=flat-square" alt="Email" /></a>
+</p>
 
-**Management & Leadership Researcher · PhD Scholarship Applicant**
+<p align="center">
+  <a href="PUBLICATIONS.md"><b>Publications</b></a> &nbsp; / &nbsp;
+  <a href="RESEARCH.md"><b>Research &amp; Methods</b></a> &nbsp; / &nbsp;
+  <a href="ACADEMIC_PROFILE.md"><b>Academic Profile</b></a> &nbsp; / &nbsp;
+  <a href="https://www.scopus.com/authid/detail.uri?authorId=60781126500"><b>Scopus</b></a>
+</p>
 
-Leadership · AI Adoption · Human–AI Collaboration · Human Resource Management
+---
 
-Yogyakarta, Indonesia · Research across South & Southeast Asia
+### Understanding leadership in an AI-enabled world
 
-[Google Scholar](https://scholar.google.com/citations?user=hfNSEOEAAAAJ&hl=en) · [Scopus](https://www.scopus.com/authid/detail.uri?authorId=60781126500) · [ORCID](https://orcid.org/0009-0007-4544-6769) · [LinkedIn](https://www.linkedin.com/in/israfilmunna/) · [Email](mailto:israfil.munna.psc25@mail.umy.ac.id)
+I study how **leadership, AI adoption, and human resource practices** shape employee experiences and sustainable organizational performance. My research connects management theory with organizational challenges in **Bangladesh, Indonesia, and emerging economies across South and Southeast Asia**.
 
-</div>
+At **Universitas Muhammadiyah Yogyakarta (UMY)**, I completed the academic requirements for a fully funded **Master of Management (Human Resource)** in July 2026, with a **CGPA of 3.90/4.00**. Formal degree conferral is pending.
 
-## About me
+**Open to fully funded PhD opportunities and research collaboration** in leadership, organizational behavior, HRM, and AI-enabled management.
 
-I am an early-career management researcher studying how leadership, AI adoption, human–AI collaboration, and human resource practices shape employee outcomes and sustainable organizational performance in emerging economies, particularly **Bangladesh and Indonesia**.
+<table>
+<tr>
+<td align="center" width="33%"><h3>08</h3><b>Journal articles</b><br/><sub>Listed in my current CV</sub></td>
+<td align="center" width="34%"><h3>13</h3><b>Manuscripts under review</b><br/><sub>Status reported October 2026</sub></td>
+<td align="center" width="33%"><h3>2025</h3><b>Best Paper Award</b><br/><sub>Human Resource Track · ISCC</sub></td>
+</tr>
+</table>
 
-I have completed the academic requirements for the **Master of Management (Human Resource)** at **Universitas Muhammadiyah Yogyakarta (UMY)** under a fully funded scholarship, with a **CGPA of 3.90/4.00**. Academic requirements were completed in July 2026; **formal degree conferral is pending**.
+## Research agenda
 
-I am seeking a **fully funded PhD opportunity** in management, leadership, organizational behavior, HRM, AI-enabled management, or related fields.
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>01 · Leadership &amp; AI</h3>
+Digital leadership, AI adoption, digital readiness, and human–AI collaboration in changing workplaces.
+</td>
+<td width="50%" valign="top">
+<h3>02 · People &amp; Organizations</h3>
+E-HRM, employee engagement, organizational behavior, and sustainable organizational performance.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>03 · Responsible Management</h3>
+Sustainable and responsible leadership, AI-HRM governance, trust, and perceived fairness.
+</td>
+<td width="50%" valign="top">
+<h3>04 · Emerging Economies</h3>
+Higher education and organizational research in Bangladesh, Indonesia, and South and Southeast Asia.
+</td>
+</tr>
+</table>
 
-[Publications and conference presentation](PUBLICATIONS.md) · [Research methods, manuscripts, and doctoral direction](RESEARCH.md)
+## Selected publications
 
-## Research focus
+**Islamic spiritual leadership in Bangladeshi organizations**  
+A qualitative inquiry into leadership practice.  
+*Human Systems Management · 2026 · Advance online publication*  
+[Read article ↗](https://doi.org/10.1177/01672533261498592)
 
-- **Primary:** Leadership, AI adoption, human–AI collaboration, E-HRM, and employee engagement.
-- **Secondary:** Sustainable and responsible leadership, sustainable organizational performance, organizational behavior and HRM, higher education management, and emerging economies.
-- **Methods:** Quantitative and qualitative research, PLS-SEM, systematic literature reviews, and bibliometric analysis.
-- **Tools:** SmartPLS 4, SPSS, R, VOSviewer, and Microsoft Office; ANN and SHAP for social science research.
+**Digital leadership & human–AI collaboration**  
+A systematic literature review and future research agenda for sustainable organizational performance.  
+*International Journal of Organizational Leadership · 2026*  
+[Read article ↗](https://doi.org/10.33844/ijol.2026.60554)
 
-## Publications
+**Transformational leadership, AI readiness & innovative work behavior**  
+A study of the pathway to innovative work behavior in Indonesian higher education.  
+*Human Resources Management and Services · 2026*  
+[Read article ↗](https://doi.org/10.18282/hrms6117)
 
-My CV lists **eight peer-reviewed journal articles**, alongside **13 manuscripts under review as of October 2026** and one manuscript in preparation. Publication citations and manuscript statuses are presented separately.
+**ChatGPT adoption among university students**  
+An extended value-based adoption model using hybrid SEM and machine learning in Yogyakarta.  
+*Education Science and Management · 2025*  
+[Read article ↗](https://doi.org/10.56578/esm030402)
 
-| Year | Article | Journal |
-|---|---|---|
-| 2026 | [The practice of Islamic spiritual leadership in Bangladeshi organizations: A qualitative inquiry](https://doi.org/10.1177/01672533261498592) | Human Systems Management |
-| 2026 | [Leadership perception in remote work environments and implications for decent work](https://doi.org/10.56578/jemse050306) | Journal of Engineering Management and Systems Engineering |
-| 2026 | [Transformational leadership, innovative work behavior, and AI readiness in Indonesian higher education](https://doi.org/10.18282/hrms6117) | Human Resources Management and Services |
-| 2026 | [Digital leadership and human–AI collaboration for sustainable organizational performance](https://doi.org/10.33844/ijol.2026.60554) | International Journal of Organizational Leadership |
-| 2026 | [E-HRM, employee engagement, and perceived organizational support in Bangladesh](https://doi.org/10.18282/hrms5872) | Human Resources Management and Services |
-| 2026 | [Digital leadership and AI adoption intention and usage in SMEs](https://doi.org/10.33844/ijol.2026.60548) | International Journal of Organizational Leadership |
-| 2026 | [Digital leadership and academic performance](https://doi.org/10.56578/esm040102) | Education Science and Management |
-| 2025 | [ChatGPT adoption among university students in Yogyakarta](https://doi.org/10.56578/esm030402) | Education Science and Management |
+[**Explore all eight journal articles and full citations →**](PUBLICATIONS.md)
 
-Article titles are shortened in this overview. [Full citations →](PUBLICATIONS.md)
+## Methodological toolkit
 
-## Education
+| Approach | Research practice | Tools & frameworks |
+| :--- | :--- | :--- |
+| **Quantitative** | Survey design, measurement models, higher-order constructs, mediation, bootstrapping | SmartPLS 4 · SPSS · R |
+| **Qualitative** | Semi-structured interviews, coding, thematic analysis, interpretative inquiry | Phenomenological & sensemaking approaches |
+| **Evidence synthesis** | Systematic reviews, screening, extraction, thematic synthesis | PRISMA 2020 |
+| **Bibliometric** | Co-citation, keyword co-occurrence, network mapping, thematic clustering | Scopus · VOSviewer |
+| **Machine learning** | Machine learning for social science | ANN · SHAP |
 
-**Master of Management (Human Resource)** — Universitas Muhammadiyah Yogyakarta, Indonesia  
-September 2025–Present · Fully funded scholarship · CGPA **3.90/4.00** · EQF Level 7  
-Academic requirements completed July 2026; degree conferral pending.
+[Research methods, current manuscripts, and doctoral direction →](RESEARCH.md)
 
-**Bachelor of Arts (Hons) in English Language and Literature** — Asian University of Bangladesh, Dhaka  
-September 2019–December 2023 · CGPA **3.71/4.00** · EQF Level 6 · 132 credit hours  
-Foundations in qualitative interpretation, critical analysis, literature review, and academic writing.
+## Academic journey
 
-## Research and professional experience
+**2025–Present · Master of Management (Human Resource)**  
+Universitas Muhammadiyah Yogyakarta, Indonesia  
+Fully funded scholarship · **3.90/4.00** · Academic requirements completed July 2026; degree conferral pending.
 
-**Director of Research and Professional Development**  
-International Students Association (ISA), UMY, Indonesia · **October 2025–Present**
+**2019–2023 · BA (Hons), English Language and Literature**  
+Asian University of Bangladesh, Dhaka  
+**3.71/4.00** · Foundations in critical analysis, qualitative interpretation, and scholarly writing.
 
-- Build academic partnerships and support collaborative research opportunities.
-- Integrate research activities into ISA’s calendar through cross-departmental collaboration.
-- Lead leadership workshops, capacity-building programs, and research forums for international students.
-- Oversee resume workshops, interview preparation, and professional mentorship.
-- Contributed leadership and coordination to the ISA International Research Bootcamp 2026.
+## Leadership & academic service
 
-**Assistant English Teacher**  
-Education Prime School, Dhaka, Bangladesh · **January 2021–December 2023**
+- **Director of Research and Professional Development, ISA UMY** · October 2025–Present  
+  Academic partnerships, research forums, leadership workshops, and professional development for international students.
+- **Best Paper Award — Human Resource Track** · December 2025  
+  International Student Colloquium Collaboration; co-authored research on transformational leadership, innovation, and employee creativity.
+- **Invited peer-review service** · June 2026  
+  International Journal of Education and Practice; Asian Journal of Interdisciplinary Research.
+- **ISA International Research Bootcamp recognition** · 2026  
+  Certificate of Appreciation for leadership, coordination, and contribution.
 
-- Supported structured English instruction across multiple grade levels.
-- Designed teaching materials for grammar, vocabulary, and communication.
-- Supported classroom facilitation and student progress tracking.
+<details>
+<summary><b>International programs, languages & earlier experience</b></summary>
 
-**Research collaboration:** Dr. Udin Udin and UMY faculty, across leadership, organizational behavior, AI adoption, human–AI collaboration, and higher education management.
+### International academic programs · 2026
 
-## Honors and academic service
+- **UIN Walisongo** · Language and cultural heritage · 10–12 August
+- **Universitas Negeri Semarang** · Community-based learning, entrepreneurship, and sustainable rural development · 1–2 August
+- **Universitas Gadjah Mada** · Ecosystem services and climate change · 7–20 July
+- **Universitas Andalas** · Indonesian sociocultural and political dynamics, with a focus on Minangkabau society · 23–30 June
 
-- **Best Paper Award – Human Resource Track**, International Student Colloquium Collaboration, **13 December 2025**, for the co-authored presentation *Transformational Leadership Effects on Organizational Innovation and Employee Creativity: Evidence from Jakarta-Based Retail Export SMEs.*
-- **Certificate of Appreciation**, ISA UMY, **2026**, for leadership, coordination, and contribution to the ISA International Research Bootcamp 2026.
-- **Invited Peer Reviewer**, International Journal of Education and Practice, **June 2026**.
-- **Peer Reviewer and Certificate of Reviewing**, Asian Journal of Interdisciplinary Research, **June 2026**.
+### Languages
 
-## Academic training and international programs
+Bengali: native · English: B2 · Hindi: B2 in listening, reading, speaking, and interaction; A2 writing · Indonesian: A2.
 
-- **UIN Walisongo, International Short Course Program:** 10–12 August 2026 — Preserving Indonesia’s Language and Cultural Heritage.
-- **Universitas Negeri Semarang, Summer Course Session 4:** 1–2 August 2026 — Community-Based Learning: Entrepreneurship, Local Culture, and Sustainable Rural Development.
-- **Universitas Gadjah Mada, Xth International Forestry Summer Course:** 7–20 July 2026 — The Forest for Life: Managing Ecosystem Services in a Changing Climate.
-- **Universitas Andalas, International Summer Course:** 23–30 June 2026 — Understanding Indonesian Sociocultural and Political Dynamics: Focus on Minangkabau Society.
+### Earlier professional experience
 
-## Skills and competencies
+**Assistant English Teacher**, Education Prime School, Dhaka · January 2021–December 2023. English instruction, teaching materials, classroom facilitation, and student progress tracking.
 
-Research design · Questionnaire development · Conceptual frameworks · PLS-SEM · Mediation analysis · Bibliometrics · PRISMA 2020 reviews · Semi-structured interviews · Thematic analysis · Academic writing · APA 7 and DOI verification · Data quality control · Manuscript revision and reviewer responses · Peer review · Project management · Team leadership · Research dissemination
+[Full academic profile →](ACADEMIC_PROFILE.md)
 
-[Detailed methodological experience →](RESEARCH.md#methods-and-research-practice)
+</details>
 
-## Languages
+---
 
-| Language | Listening | Reading | Speaking | Interaction | Writing |
-|---|---|---|---|---|---|
-| Bengali | Native | Native | Native | Native | Native |
-| English | B2 | B2 | B2 | B2 | B2 |
-| Hindi | B2 | B2 | B2 | B2 | A2 |
-| Indonesian | A2 | A2 | A2 | A2 | A2 |
+### Let’s advance management research together
 
-CEFR: A1/A2 = Basic; B1/B2 = Independent; C1/C2 = Proficient.
+I welcome conversations with **prospective PhD supervisors, academic collaborators, and research teams** exploring leadership, AI adoption, human–AI collaboration, HRM, and sustainable organizations.
 
-## Community and academic engagement
+**[Email me](mailto:israfil.munna.psc25@mail.umy.ac.id)** &nbsp; · &nbsp; **[Connect on LinkedIn](https://www.linkedin.com/in/israfilmunna/)** &nbsp; · &nbsp; **[Explore my research](https://scholar.google.com/citations?user=hfNSEOEAAAAJ&hl=en)**
 
-I participate in social and educational outreach, international academic forums, and management and leadership seminars. My interests include cross-cultural exploration, academic writing and journaling, business and leadership literature, and professional networking.
-
-## Connect
-
-I welcome conversations with prospective PhD supervisors and collaborators working on leadership, AI adoption, human–AI collaboration, HRM, higher education, and sustainable organizational performance.
-
-**Email:** [israfil.munna.psc25@mail.umy.ac.id](mailto:israfil.munna.psc25@mail.umy.ac.id)  
-**ORCID:** [0009-0007-4544-6769](https://orcid.org/0009-0007-4544-6769)  
-**Location:** Yogyakarta, Indonesia
-
-*Profile aligned with my CV, October 2026.*
+<sub>Yogyakarta, Indonesia · Academic information aligned with my CV, October 2026.</sub>
