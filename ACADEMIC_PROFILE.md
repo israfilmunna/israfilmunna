@@ -1,8 +1,8 @@
-<img src="assets/profile/page-academic.svg" width="100%" alt="Academic profile — education, experience and academic service" />
+# Academic Profile
 
 [Profile](README.md) · [Publications](PUBLICATIONS.md) · [Research & methods](RESEARCH.md) · [Academic profile](ACADEMIC_PROFILE.md)
 
-# Israfil Munna
+## Israfil Munna
 
 **Management & Leadership Researcher · PhD Scholarship Applicant**  
 Yogyakarta, Indonesia · [Email](mailto:israfil.munna.psc25@mail.umy.ac.id) · [ORCID](https://orcid.org/0009-0007-4544-6769)
