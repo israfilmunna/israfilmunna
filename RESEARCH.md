@@ -1,4 +1,4 @@
-<img src="assets/profile/page-research.svg" width="100%" alt="Research and methods — questions, approaches and work in progress" />
+# Research and Methods
 
 [Profile](README.md) · [Publications](PUBLICATIONS.md) · [Research & methods](RESEARCH.md) · [Academic profile](ACADEMIC_PROFILE.md)
 
