@@ -1,8 +1,22 @@
 # Publications
 
-## Peer-Reviewed Journal Articles
+[Profile](README.md) · [Research](RESEARCH.md)
 
-### 1. Leadership Perception in Remote Work Environments and Decent Work
+## Peer-reviewed journal articles
+
+The following eight journal articles are listed in my CV (October 2026).
+
+### 1
+
+**Munna, I., Udin, U., Qamari, I. N., & Ogueri, D. I. (2026).**
+
+The practice of Islamic spiritual leadership in Bangladeshi organizations: A qualitative inquiry.
+
+**Human Systems Management.** Advance online publication.
+
+https://doi.org/10.1177/01672533261498592
+
+### 2
 
 **Munna, I., Ogueri, D. I., Sukumaran, S., & Udin, U. (2026).**
 
@@ -10,14 +24,9 @@ Leadership perception in remote work environments and implications for decent wo
 
 **Journal of Engineering Management and Systems Engineering, 5(3), 377–401.**
 
-- **DOI:** https://doi.org/10.56578/jemse050306
-- **Research Area:** Leadership | Remote Work | Decent Work
-- **Context:** Indonesia
-- **Method:** Inductive Qualitative Study
+https://doi.org/10.56578/jemse050306
 
----
-
-### 2. Transformational Leadership, AI Readiness and Innovative Work Behavior
+### 3
 
 **Udin, U., Munna, I., Macariola, J. S., & Sukumaran, S. (2026).**
 
@@ -25,14 +34,9 @@ Modeling the pathway from transformational leadership to innovative work behavio
 
 **Human Resources Management and Services, 8(4), 6117.**
 
-- **DOI:** https://doi.org/10.18282/hrms6117
-- **Research Area:** Transformational Leadership | AI Readiness | Innovative Work Behavior
-- **Context:** Higher Education in Indonesia
-- **Method:** Quantitative Research | Mediation Analysis
+https://doi.org/10.18282/hrms6117
 
----
-
-### 3. Digital Leadership, Human–AI Collaboration and Sustainable Performance
+### 4
 
 **Md Saad, M. S., Munna, I., & Udin, U. (2026).**
 
@@ -40,15 +44,9 @@ Digital leadership and human–AI collaboration for sustainable organizational p
 
 **International Journal of Organizational Leadership, 15(Special Issue-1), 39–63.**
 
-- **DOI:** https://doi.org/10.33844/ijol.2026.60554
-- **Research Area:** Digital Leadership | Human–AI Collaboration | Sustainable Organizational Performance
-- **Context:** Global / Emerging-Market Research Literature
-- **Method:** Systematic Literature Review | PRISMA 2020 | Scopus-Based Review
-- **Review Scope:** 222 records screened | 29 studies synthesized
+https://doi.org/10.33844/ijol.2026.60554
 
----
-
-### 4. Electronic Human Resource Management and Employee Engagement
+### 5
 
 **Munna, I., Udin, U., Ogueri, D. I., & Sukumaran, S. (2026).**
 
@@ -56,14 +54,9 @@ Electronic human resource management and employee engagement for sustainable dev
 
 **Human Resources Management and Services, 8(3), 5872.**
 
-- **DOI:** https://doi.org/10.18282/hrms5872
-- **Research Area:** E-HRM | Employee Engagement | Perceived Organizational Support | Sustainable Development Goals
-- **Context:** Private Universities in Bangladesh
-- **Method:** Quantitative Research | PLS-SEM | Mediation Analysis
+https://doi.org/10.18282/hrms5872
 
----
-
-### 5. Digital Leadership and AI Adoption
+### 6
 
 **Munna, I., & Udin, U. (2026).**
 
@@ -71,14 +64,9 @@ Digital leadership and AI adoption intention and usage in SMEs: The mediating ro
 
 **International Journal of Organizational Leadership, 15(2), 151–170.**
 
-- **DOI:** https://doi.org/10.33844/ijol.2026.60548
-- **Research Area:** Digital Leadership | AI Adoption | Employee Digital Readiness
-- **Context:** SMEs in Urban Bangladesh
-- **Method:** Quantitative Research | Mediation Analysis | PLS-SEM
+https://doi.org/10.33844/ijol.2026.60548
 
----
-
-### 6. Digital Leadership and Academic Performance
+### 7
 
 **Munna, I. (2026).**
 
@@ -86,14 +74,9 @@ Digital Leadership and Academic Performance: The Mediating Role of Knowledge Sha
 
 **Education Science and Management, 4(1), 21–37.**
 
-- **DOI:** https://doi.org/10.56578/esm040102
-- **Research Area:** Digital Leadership | Knowledge Sharing | Academic Performance
-- **Context:** Higher Education Institutions
-- **Method:** Quantitative Research | Mediation Analysis | PLS-SEM
+https://doi.org/10.56578/esm040102
 
----
-
-### 7. ChatGPT Adoption and Hybrid SEM–Machine Learning
+### 8
 
 **Munna, I. (2025).**
 
@@ -101,64 +84,10 @@ Understanding ChatGPT Adoption among University Students in Yogyakarta, Indonesi
 
 **Education Science and Management, 3(4), 219–230.**
 
-- **DOI:** https://doi.org/10.56578/esm030402
-- **Research Area:** ChatGPT Adoption | AI Adoption | Technology Acceptance | Machine Learning
-- **Context:** University Students in Yogyakarta, Indonesia
-- **Method:** Extended Value-Based Adoption Model | PLS-SEM | Machine Learning
+https://doi.org/10.56578/esm030402
 
----
+## Conference presentation
 
-## Publication Summary
+Munna, I., & Udin, U. (2025). *Transformational Leadership Effects on Organizational Innovation and Employee Creativity: Evidence from Jakarta-Based Retail Export SMEs.* Presented at the International Student Colloquium Collaboration, 13 December 2025. **Best Paper Award – Human Resource Track.**
 
-| Metric | Details |
-|---|---:|
-| **Peer-Reviewed Journal Articles** | **7** |
-| **2026 Publications** | **6** |
-| **2025 Publications** | **1** |
-| **AI / ChatGPT Research** | **3** |
-| **Digital Leadership Research** | **3** |
-| **Human–AI Collaboration Research** | **1** |
-| **E-HRM Research** | **1** |
-| **Employee Engagement Research** | **1** |
-| **Higher Education Research** | **2** |
-| **Bangladesh-Based Research** | **2** |
-| **Indonesia-Based Research** | **3** |
-| **Systematic Literature Review** | **1** |
-| **Hybrid SEM–Machine Learning** | **1** |
-| **Qualitative Research** | **1** |
-
----
-
-## Research Themes
-
-```text
-                         MANAGEMENT RESEARCH
-                                │
-             ┌──────────────────┼──────────────────┐
-             │                  │                  │
-             ▼                  ▼                  ▼
-      DIGITAL LEADERSHIP    AI & DIGITAL HRM     LEADERSHIP
-             │                  │                  │
-             ▼                  ▼                  ▼
-    HUMAN–AI COLLABORATION   AI ADOPTION      TRANSFORMATIONAL
-             │                  │              LEADERSHIP
-             ▼                  ▼                  │
-    SUSTAINABLE PERFORMANCE  ChatGPT Adoption    ▼
-             │                  │           AI READINESS
-             │                  │                  │
-             └──────────────────┼──────────────────┘
-                                │
-                                ▼
-                  EMPLOYEE & ORGANIZATIONAL
-                           OUTCOMES
-                                │
-             ┌──────────────────┼──────────────────┐
-             │                  │                  │
-             ▼                  ▼                  ▼
-      EMPLOYEE ENGAGEMENT  INNOVATIVE WORK   ACADEMIC
-             │               BEHAVIOR        PERFORMANCE
-             │                  │                  │
-             └──────────────────┼──────────────────┘
-                                │
-                                ▼
-                     SUSTAINABLE ORGANIZATIONS
+[Manuscripts under review and work in preparation](RESEARCH.md#manuscripts-under-review)
