@@ -1,117 +1,103 @@
-<p align="center">
-  <img src="assets/v3/hero.svg" width="100%" alt="Hello, I'm Israfil Munna. Management and Leadership Researcher based in Yogyakarta, Indonesia. Open to PhD opportunities and research collaboration." />
-</p>
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/profile/hero-mobile.svg" />
+  <img src="assets/profile/hero.svg" width="100%" alt="Israfil Munna — Management and Leadership Researcher. Based in Yogyakarta, Indonesia. Research across South and Southeast Asia. Seeking a fully funded PhD." />
+</picture>
 
 <p align="center">
-  <a href="PUBLICATIONS.md"><b>PUBLICATIONS</b></a> &nbsp; / &nbsp;
-  <a href="RESEARCH.md"><b>RESEARCH & METHODS</b></a> &nbsp; / &nbsp;
-  <a href="ACADEMIC_PROFILE.md"><b>ACADEMIC PROFILE</b></a> &nbsp; / &nbsp;
-  <a href="mailto:israfil.munna.psc25@mail.umy.ac.id"><b>LET'S CONNECT ↗</b></a>
+  <a href="PUBLICATIONS.md"><img src="assets/profile/publications.svg" width="190" height="40" alt="Publications" /></a>
+  <a href="RESEARCH.md"><img src="assets/profile/research.svg" width="225" height="40" alt="Research and methods" /></a>
+  <a href="ACADEMIC_PROFILE.md"><img src="assets/profile/academic.svg" width="210" height="40" alt="Academic profile" /></a>
 </p>
 
-<p align="center">
-  <img src="assets/v3/research-line.gif" width="100%" alt="Leadership, people, and intelligent organizations. AI adoption, human–AI collaboration, and HRM." />
-</p>
+## About me
 
-## A little about me
+I’m **Israfil Munna**, an early-career management researcher exploring how **leadership, AI adoption, and human resource practices** shape employee experiences and sustainable organizational performance. My work focuses on **Indonesia and Bangladesh**, with a broader interest in South and Southeast Asian emerging economies.
 
-I research the intersection of **leadership, artificial intelligence, and human resource management**—how people and organizations navigate digital change, build trust, and work toward sustainable performance.
+At **Universitas Muhammadiyah Yogyakarta (UMY)**, I completed the academic requirements for a fully funded **Master of Management (Human Resource)** in July 2026, with a **CGPA of 3.90/4.00**. Formal degree conferral is pending.
 
-My work focuses on **Bangladesh and Indonesia**, connecting management theory with the realities of emerging economies across South and Southeast Asia.
-
-- 🔭 **Researching:** digital leadership, AI adoption, human–AI collaboration, and employee outcomes.
-- 🎓 **Seeking:** fully funded PhD opportunities in Management, Leadership, HRM, or Organizational Behavior.
-- 🤝 **Collaborating on:** quantitative studies, qualitative inquiry, systematic reviews, and bibliometric research.
-- 🌏 **Based in:** Yogyakarta, Indonesia; originally from Bangladesh.
-
-<table>
-<tr>
-<td align="center" width="33%"><h2>08</h2><b>JOURNAL ARTICLES</b><br/><sub>Listed in my October 2026 CV</sub></td>
-<td align="center" width="34%"><h2>13</h2><b>MANUSCRIPTS UNDER REVIEW</b><br/><sub>Status reported October 2026</sub></td>
-<td align="center" width="33%"><h2>3.90 / 4.00</h2><b>MASTER'S CGPA</b><br/><sub>Fully funded scholarship · UMY</sub></td>
-</tr>
-</table>
-
-## My research toolkit
+> **Seeking a fully funded PhD** in Management, Leadership, HRM, Organizational Behavior, or AI-enabled management. I welcome conversations with prospective supervisors and research collaborators.
 
 <p>
-  <picture>
-  <source media="(max-width: 600px)" srcset="assets/v3/toolkit-mobile.svg" />
-  <img src="assets/v3/toolkit.svg" width="100%" alt="R for statistical analysis; SmartPLS 4 for structural modeling; SPSS for statistical reporting; VOSviewer for bibliometric mapping; ANN and SHAP for social science machine learning; PRISMA 2020 for evidence synthesis." />
-  </picture>
+  <a href="mailto:israfil.munna.psc25@mail.umy.ac.id"><img src="assets/profile/email.svg" width="104" height="40" alt="Email Israfil Munna" /></a>
+  <a href="https://scholar.google.com/citations?user=hfNSEOEAAAAJ&amp;hl=en"><img src="assets/profile/scholar.svg" width="174" height="40" alt="Google Scholar" /></a>
+  <a href="https://orcid.org/0009-0007-4544-6769"><img src="assets/profile/orcid.svg" width="112" height="40" alt="ORCID" /></a>
+  <a href="https://www.scopus.com/authid/detail.uri?authorId=60781126500"><img src="assets/profile/scopus.svg" width="117" height="40" alt="Scopus" /></a>
+  <a href="https://www.linkedin.com/in/israfilmunna/"><img src="assets/profile/linkedin.svg" width="132" height="40" alt="LinkedIn" /></a>
 </p>
 
-**Quantitative research** · PLS-SEM, survey design, measurement models, higher-order constructs, mediation, and bootstrapping.  
-**Qualitative inquiry** · Semi-structured interviews, thematic analysis, phenomenological approaches, and sensemaking.  
-**Evidence synthesis** · Systematic literature reviews, bibliometrics, co-citation, and keyword co-occurrence mapping.
+## Research directions
 
-[Explore my methods and current manuscripts →](RESEARCH.md)
+**Leadership & intelligent organizations**  
+Digital leadership, AI adoption, employee readiness, and human–AI collaboration.
 
-## Selected work
+**People & sustainable performance**  
+E-HRM, employee engagement, organizational behavior, and responsible leadership.
 
-### 01 &nbsp; Leadership, ethics & organizational life
+**Higher education & emerging economies**  
+Management research grounded in the organizational contexts of Bangladesh and Indonesia.
 
-**The practice of Islamic spiritual leadership in Bangladeshi organizations: A qualitative inquiry.**  
-*Human Systems Management · 2026 · Advance online publication*  
-[Read the paper ↗](https://doi.org/10.1177/01672533261498592)
+## Selected publications
 
-### 02 &nbsp; Leading human–AI collaboration
+<p align="center">
+  <a href="https://doi.org/10.1177/01672533261498592"><img src="assets/profile/paper-leadership.svg" width="272" alt="The practice of Islamic spiritual leadership in Bangladeshi organizations: A qualitative inquiry. Human Systems Management, 2026. Read article." /></a>
+  <a href="https://doi.org/10.33844/ijol.2026.60554"><img src="assets/profile/paper-human-ai.svg" width="272" alt="Digital leadership and human–AI collaboration for sustainable organizational performance: A systematic literature review and future research agenda. International Journal of Organizational Leadership, 2026. Read article." /></a>
+  <a href="https://doi.org/10.56578/esm030402"><img src="assets/profile/paper-chatgpt.svg" width="272" alt="Understanding ChatGPT adoption among university students in Yogyakarta, Indonesia: An extended value-based adoption model using hybrid structural equation modeling and machine learning analysis. Education Science and Management, 2025. Read article." /></a>
+</p>
 
-**Digital leadership and human–AI collaboration for sustainable organizational performance: A systematic literature review and future research agenda.**  
-*International Journal of Organizational Leadership · 2026*  
-[Read the paper ↗](https://doi.org/10.33844/ijol.2026.60554)
+**[8 journal articles](PUBLICATIONS.md)** · **[13 manuscripts under review](RESEARCH.md#manuscripts-under-review)** · **[1 manuscript in preparation](RESEARCH.md#manuscript-in-preparation)**  
+<sub>Articles listed and manuscript statuses reported in my October 2026 CV.</sub>
 
-### 03 &nbsp; Understanding AI adoption
+[Full citations →](PUBLICATIONS.md) &nbsp; · &nbsp; [Download BibTeX →](https://raw.githubusercontent.com/israfilmunna/israfilmunna/main/publications.bib)
 
-**Understanding ChatGPT adoption among university students in Yogyakarta, Indonesia: An extended value-based adoption model using hybrid structural equation modeling and machine learning analysis.**  
-*Education Science and Management · 2025*  
-[Read the paper ↗](https://doi.org/10.56578/esm030402)
+## Research toolkit
 
-**[View all eight journal articles and full citations →](PUBLICATIONS.md)**
+<p align="center">
+  <a href="RESEARCH.md#methods-and-research-practice"><img src="assets/profile/tool-r.svg" width="136" height="116" alt="R — statistical analysis" /></a>
+  <a href="RESEARCH.md#methods-and-research-practice"><img src="assets/profile/tool-smartpls.svg" width="136" height="116" alt="SmartPLS 4 — PLS-SEM" /></a>
+  <a href="RESEARCH.md#methods-and-research-practice"><img src="assets/profile/tool-spss.svg" width="136" height="116" alt="SPSS — statistical reporting" /></a>
+  <a href="RESEARCH.md#methods-and-research-practice"><img src="assets/profile/tool-vosviewer.svg" width="136" height="116" alt="VOSviewer — bibliometrics" /></a>
+  <a href="RESEARCH.md#methods-and-research-practice"><img src="assets/profile/tool-ann.svg" width="136" height="116" alt="ANN and SHAP — machine learning for social science" /></a>
+  <a href="RESEARCH.md#methods-and-research-practice"><img src="assets/profile/tool-prisma.svg" width="136" height="116" alt="PRISMA 2020 — systematic reviews" /></a>
+</p>
 
-## Beyond the papers
+- **Quantitative:** Survey design, measurement models, higher-order constructs, mediation, and bootstrapping.
+- **Qualitative:** Semi-structured interviews, coding, thematic analysis, and interpretative inquiry.
+- **Evidence synthesis:** Systematic literature reviews, co-citation analysis, keyword co-occurrence, and network mapping.
+- **Research practice:** Academic writing, data quality control, APA 7, DOI verification, manuscript revision, and peer review.
 
-### 🎓 Academic foundation
+[Explore my methods and research agenda →](RESEARCH.md)
 
-**Master of Management (Human Resource)** · Universitas Muhammadiyah Yogyakarta  
-Fully funded scholarship · **CGPA 3.90/4.00**. Academic requirements completed July 2026; **formal degree conferral pending**.
+## Leadership & academic service
 
-**BA (Hons), English Language and Literature** · Asian University of Bangladesh  
-**CGPA 3.71/4.00** · 2019–2023.
+**Director of Research and Professional Development** · ISA, UMY  
+October 2025–Present · Research forums, academic partnerships, leadership workshops, and professional development for international students.
 
-### 🏅 Leadership & service
+**Best Paper Award — Human Resource Track**  
+International Student Colloquium Collaboration · 13 December 2025. Co-authored research on transformational leadership, innovation, and employee creativity.
 
-**Director of Research and Professional Development** · International Students Association, UMY · October 2025–Present.
-
-**Best Paper Award — Human Resource Track** · International Student Colloquium Collaboration · December 2025.
-
-**Invited peer-review service** · International Journal of Education and Practice; Asian Journal of Interdisciplinary Research · June 2026.
-
+**Invited peer-review service**  
+International Journal of Education and Practice; Asian Journal of Interdisciplinary Research · June 2026.
 
 <details>
-<summary><b>More about my academic journey ↗</b></summary>
+<summary><b>Education, international programs & languages</b></summary>
 
-**International programs:** UIN Walisongo, Universitas Negeri Semarang, Universitas Gadjah Mada, and Universitas Andalas in 2026.
+**Master of Management (Human Resource)** · UMY · September 2025–Present. Fully funded scholarship; CGPA **3.90/4.00**. Academic requirements completed July 2026; degree conferral pending.
 
-**Earlier experience:** Assistant English Teacher, Education Prime School, Dhaka · January 2021–December 2023.
+**BA (Hons), English Language and Literature** · Asian University of Bangladesh · September 2019–December 2023. CGPA **3.71/4.00**.
 
-**Languages:** Bengali (native), English (B2), Hindi (B2 with A2 writing), Indonesian (A2).
+**International programs, 2026:** Universitas Andalas, Universitas Gadjah Mada, Universitas Negeri Semarang, and UIN Walisongo.
 
-[Read my full academic profile →](ACADEMIC_PROFILE.md)
+**Languages:** Bengali (native); English (B2); Hindi (B2 in listening, reading, speaking, and interaction, with A2 writing); Indonesian (A2).
+
+[Full academic profile →](ACADEMIC_PROFILE.md)
 
 </details>
 
 ---
 
-<h2 align="center">Good research starts with a conversation.</h2>
-<p align="center">Open to <b>PhD supervision opportunities</b>, <b>research partnerships</b>, and <b>academic collaboration</b>.</p>
+### Let's connect
 
-<p align="center">
-  <a href="mailto:israfil.munna.psc25@mail.umy.ac.id"><b>EMAIL ME ↗</b></a> &nbsp; • &nbsp;
-  <a href="https://www.linkedin.com/in/israfilmunna/"><b>LINKEDIN</b></a> &nbsp; • &nbsp;
-  <a href="https://scholar.google.com/citations?user=hfNSEOEAAAAJ&amp;hl=en"><b>GOOGLE SCHOLAR</b></a> &nbsp; • &nbsp;
-  <a href="https://www.scopus.com/authid/detail.uri?authorId=60781126500"><b>SCOPUS</b></a> &nbsp; • &nbsp;
-  <a href="https://orcid.org/0009-0007-4544-6769"><b>ORCID</b></a>
-</p>
+I welcome collaboration on **leadership, AI adoption, human–AI collaboration, HRM, and sustainable organizations**—including empirical studies, systematic reviews, and bibliometric research.
 
-<p align="center"><sub>Leadership · People · AI · Sustainable organizations<br/>Academic information aligned with my CV, October 2026.</sub></p>
+**[israfil.munna.psc25@mail.umy.ac.id](mailto:israfil.munna.psc25@mail.umy.ac.id)**  
+Yogyakarta, Indonesia · [LinkedIn](https://www.linkedin.com/in/israfilmunna/) · [Google Scholar](https://scholar.google.com/citations?user=hfNSEOEAAAAJ&hl=en) · [ORCID](https://orcid.org/0009-0007-4544-6769)

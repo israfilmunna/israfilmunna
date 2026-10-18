@@ -1,20 +1,11 @@
-# Academic Profile
+<img src="assets/profile/page-academic.svg" width="100%" alt="Academic profile — education, experience and academic service" />
 
-[← Back to profile](README.md)
-
-<div align="center">
+[Profile](README.md) · [Publications](PUBLICATIONS.md) · [Research & methods](RESEARCH.md) · [Academic profile](ACADEMIC_PROFILE.md)
 
 # Israfil Munna
 
-**Management & Leadership Researcher · PhD Scholarship Applicant**
-
-Leadership · AI Adoption · Human–AI Collaboration · Human Resource Management
-
-Yogyakarta, Indonesia · Research across South & Southeast Asia
-
-[Google Scholar](https://scholar.google.com/citations?user=hfNSEOEAAAAJ&hl=en) · [Scopus](https://www.scopus.com/authid/detail.uri?authorId=60781126500) · [ORCID](https://orcid.org/0009-0007-4544-6769) · [LinkedIn](https://www.linkedin.com/in/israfilmunna/) · [Email](mailto:israfil.munna.psc25@mail.umy.ac.id)
-
-</div>
+**Management & Leadership Researcher · PhD Scholarship Applicant**  
+Yogyakarta, Indonesia · [Email](mailto:israfil.munna.psc25@mail.umy.ac.id) · [ORCID](https://orcid.org/0009-0007-4544-6769)
 
 ## About me
 
@@ -124,3 +115,8 @@ I welcome conversations with prospective PhD supervisors and collaborators worki
 **Location:** Yogyakarta, Indonesia
 
 *Profile aligned with my CV, October 2026.*
+
+
+---
+
+[Profile](README.md) · [Publications](PUBLICATIONS.md) · [Research & methods](RESEARCH.md) · [Academic profile](ACADEMIC_PROFILE.md)
