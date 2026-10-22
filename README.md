@@ -1,23 +1,43 @@
-<h1 align="center">Hi 👋, I'm Israfil Munna</h1>
-<h3 align="center">Management &amp; Leadership Researcher</h3>
-<p align="center"><b>AI Adoption · Human–AI Collaboration · Human Resource Management</b><br/>PhD Scholarship Applicant · Yogyakarta, Indonesia</p>
+<p align="center"><img src="assets/israfil-hero.svg" alt="Israfil Munna, management and leadership researcher, blue animated banner" width="100%" /></p>
+
+<p align="center"><strong>Master of Management Researcher · PhD Scholarship Applicant</strong><br/>Leadership · AI Adoption · Human–AI Collaboration · Human Resource Management</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=israfilmunna&amp;label=Profile%20views&amp;color=2563eb&amp;style=flat-square" alt="Profile views since the counter was enabled" />
-  <a href="https://github.com/israfilmunna?tab=followers"><img src="https://img.shields.io/github/followers/israfilmunna?label=Followers&amp;style=flat-square&amp;color=2563eb" alt="GitHub followers" /></a>
-  <img src="https://img.shields.io/badge/Research-Leadership%20%26%20AI-087E8B?style=flat-square" alt="Research: Leadership and AI" />
+  <a href="https://www.linkedin.com/in/israfilmunna/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
+  <a href="https://scholar.google.com/citations?user=hfNSEOEAAAAJ&amp;hl=en"><img alt="Google Scholar" src="https://img.shields.io/badge/Google_Scholar-2563EB?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=white" /></a>
+  <a href="https://orcid.org/0009-0007-4544-6769"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0284C7?style=for-the-badge&amp;logo=orcid&amp;logoColor=white" /></a>
+  <a href="https://www.scopus.com/authid/detail.uri?authorId=60781126500"><img alt="Scopus" src="https://img.shields.io/badge/Scopus-1E40AF?style=for-the-badge" /></a>
+  <a href="mailto:israfil.munna.psc25@mail.umy.ac.id"><img alt="Academic email" src="https://img.shields.io/badge/Academic_Email-0369A1?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/israfilmunna/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="https://scholar.google.com/citations?user=hfNSEOEAAAAJ&amp;hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=white" alt="Google Scholar" /></a>
-  <a href="https://orcid.org/0009-0007-4544-6769"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&amp;logo=orcid&amp;logoColor=white" alt="ORCID" /></a>
-  <a href="https://www.scopus.com/authid/detail.uri?authorId=60781126500"><img src="https://img.shields.io/badge/Scopus-E9711C?style=for-the-badge&amp;logo=scopus&amp;logoColor=white" alt="Scopus" /></a>
-  <a href="mailto:israfil.munna.psc25@mail.umy.ac.id"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/israfilmunna"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
-</p>
+<p align="center"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=israfilmunna&amp;label=Profile%20views&amp;color=2563eb&amp;style=flat-square" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/israfilmunna?label=Followers&amp;style=flat-square&amp;color=2563eb" /></p>
 
-<p align="center"><a href="mailto:israfil.munna.psc25@mail.umy.ac.id">israfil.munna.psc25@mail.umy.ac.id</a><br/><a href="tel:+6282146119240">(+62) 821-4611-9240</a> · ORCID: 0009-0007-4544-6769</p>
+### Research focus
+
+I study leadership, responsible AI adoption, human–AI collaboration, and HRM in emerging-market organizations. My work spans quantitative and qualitative research, systematic reviews, and bibliometric analysis. I am exploring fully funded PhD opportunities in management, leadership, HRM, and organizational behavior.
+
+**Research methods:** SmartPLS 4 · SPSS · R · VOSviewer · PLS-SEM · PRISMA 2020 · Qualitative interviews
+
+### Selected publications
+
+- [Digital leadership and human–AI collaboration for sustainable organizational performance: A systematic literature review and future research agenda](https://doi.org/10.33844/ijol.2026.60554) (2026)
+- [Digital leadership and AI adoption intention and usage in SMEs](https://doi.org/10.33844/ijol.2026.60548) (2026)
+- [Understanding ChatGPT adoption among university students in Yogyakarta, Indonesia](https://doi.org/10.56578/esm030402) (2025)
+
+### GitHub contribution activity
+
+[![GitHub contribution graph](https://ghchart.rshah.org/2563eb/israfilmunna)](https://github.com/israfilmunna)
+
+<sub>Contribution visualization uses the public GitHub activity feed. If the external image service is unavailable, view the [native GitHub contributions](https://github.com/israfilmunna) instead.</sub>
+
+<details>
+<summary><strong>Explore full academic background, publications, awards, manuscripts, methods and references</strong></summary>
+
+[About](#about-me) · [Education](#education) · [Publications](#publications) · [Awards](#honors-and-awards) · [Manuscripts](#manuscripts) · [Research methods](#research-experience) · [Skills](#skills) · [Academic references](#references)
+
+</details>
+
+<sub>Detailed academic information below is retained from the existing profile; verify current publication and manuscript statuses before reuse.</sub>
 
 ---
 
@@ -419,7 +439,6 @@ Associate Professor, Research Supervisor and Collaborator in Human Resource Mana
 
 ---
 
-<p align="center"><b>Israfil Munna</b><br/>Management &amp; Leadership Researcher · PhD Scholarship Applicant<br/><a href="mailto:israfil.munna.psc25@mail.umy.ac.id">Email</a> · <a href="https://www.linkedin.com/in/israfilmunna/">LinkedIn</a> · <a href="https://scholar.google.com/citations?user=hfNSEOEAAAAJ&amp;hl=en">Google Scholar</a> · <a href="#about-me">Back to top</a></p>
+<p align="center"><a href="mailto:israfil.munna.psc25@mail.umy.ac.id">Academic email</a> · <a href="https://www.linkedin.com/in/israfilmunna/">LinkedIn</a> · <a href="https://scholar.google.com/citations?user=hfNSEOEAAAAJ&amp;hl=en">Google Scholar</a> · <a href="#top">Back to top</a></p>
 
-
-<p align="center"><sub>Layout generated with <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">GitHub Profile README Generator</a> and customized for my academic profile.</sub></p>
+<p align="center"><img src="assets/israfil-footer.svg" alt="Research with rigor. Collaborate with purpose." width="100%" /></p>
