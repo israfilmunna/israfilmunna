@@ -20,9 +20,11 @@ I study leadership, responsible AI adoption, human–AI collaboration, and HRM i
 
 ### Selected publications
 
-- [Digital leadership and human–AI collaboration for sustainable organizational performance: A systematic literature review and future research agenda](https://doi.org/10.33844/ijol.2026.60554) (2026)
-- [Digital leadership and AI adoption intention and usage in SMEs](https://doi.org/10.33844/ijol.2026.60548) (2026)
-- [Understanding ChatGPT adoption among university students in Yogyakarta, Indonesia](https://doi.org/10.56578/esm030402) (2025)
+**8 peer-reviewed journal articles** listed in the [complete publication bibliography](#publications). Selected works from the CV:
+
+- Md Saad, M. S., Munna, I., & Udin, U. (2026). [Digital leadership and human–AI collaboration for sustainable organizational performance: A systematic literature review and future research agenda](https://doi.org/10.33844/ijol.2026.60554). *International Journal of Organizational Leadership, 15*(Special Issue-1), 39–63.
+- Munna, I., & Udin, U. (2026). [Digital leadership and AI adoption intention and usage in SMEs: The mediating role of employee digital readiness in an urban Bangladeshi context](https://doi.org/10.33844/ijol.2026.60548). *International Journal of Organizational Leadership, 15*(2), 151–170.
+- Munna, I. (2025). [Understanding ChatGPT adoption among university students in Yogyakarta, Indonesia: An extended value-based adoption model using hybrid structural equation modeling and machine learning analysis](https://doi.org/10.56578/esm030402). *Education Science and Management, 3*(4), 219–230.
 
 ### GitHub contribution activity
 
@@ -37,7 +39,7 @@ I study leadership, responsible AI adoption, human–AI collaboration, and HRM i
 
 </details>
 
-<sub>Detailed academic information below is retained from the existing profile; verify current publication and manuscript statuses before reuse.</sub>
+<sub>Academic publication and manuscript information updated from the CV provided in October 2026. DOI links and indexing labels reflect the CV and have not been independently verified.</sub>
 
 ---
 
@@ -73,7 +75,7 @@ I study leadership, responsible AI adoption, human–AI collaboration, and HRM i
 
 ## 👤 About Me
 
-Early-career management researcher with a strong foundation in organizational behavior, leadership, human resource management, and strategic management. I have completed the academic requirements for the Master of Management at Universitas Muhammadiyah Yogyakarta (UMY), Indonesia, under a fully funded scholarship (CGPA: 3.90/4.00; formal degree conferral pending). My research focuses on leadership, AI adoption, human resource management, higher education, and sustainable organizational performance in emerging-market contexts, particularly South and Southeast Asia. My portfolio includes peer-reviewed journal articles, thirteen manuscripts in peer review, and invited peer-review service. I am seeking a fully funded PhD opportunity to deepen my methodological expertise and produce rigorous, publication-quality management research.
+Early-career management researcher with a strong foundation in organizational behavior, leadership, human resource management, and strategic management. I have completed the academic requirements for the Master of Management at Universitas Muhammadiyah Yogyakarta (UMY), Indonesia, under a fully funded scholarship (CGPA: 3.90/4.00; formal degree conferral pending). My research focuses on leadership, AI adoption, human resource management, higher education, and sustainable organizational performance in emerging-market contexts, particularly South and Southeast Asia. My portfolio includes eight peer-reviewed journal articles, thirteen active manuscripts in peer-review stages (as of October 2026), and invited peer-review service. I am seeking a fully funded PhD opportunity to deepen my methodological expertise and produce rigorous, publication-quality management research.
 
 > **Seeking a fully funded PhD opportunity** to deepen my methodological expertise and contribute rigorous, publication-quality management research.
 
@@ -166,7 +168,7 @@ Sustainable & Responsible Leadership · Sustainable Organizational Performance �
 <details>
 <summary>Publication-count clarification</summary>
 
-The CV’s research-profile summary reports thirteen peer-reviewed journal articles; its bibliography supplies eight full citations, all reproduced above. Five additional citations were not supplied. Indexing labels are reproduced from the CV.
+As reported in the October 2026 CV: **8 peer-reviewed journal articles** are listed above. Separately, **13 manuscripts are active in peer-review stages**; manuscripts under review are not counted as published articles. DOI links and journal indexing labels are transcribed from the CV, not independently verified.
 
 </details>
 
